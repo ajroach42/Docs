@@ -22,10 +22,8 @@ Pros: Versitile, high quality
 
 Cons: Complex, not terribly portable, more expensive to get started than other options. 
 
-- MXL 990 Condenser Microphone with Shockmount
-  - https://www.amazon.com/MXL-990-Condenser-Microphone-Shockmount/dp/B0002GIRP2?tag=lifehackeramzn-20
-- TASCAM US-2x2 USB Audio Interface
-  - https://www.amazon.com/dp/B00MIXF2RS/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC94706
+- [MXL 990 Condenser Microphone with Shockmount](https://www.amazon.com/MXL-990-Condenser-Microphone-Shockmount/dp/B0002GIRP2?tag=lifehackeramzn-20)
+- [TASCAM US-2x2 USB Audio Interface](https://www.amazon.com/dp/B00MIXF2RS/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC94706)
 
 **USB Mic**
 USB Microphones are exactly what it says on the tin. These are mics with integrated audio interfaces, perfect for capturing high quality audio from voices for conversations, or other single audio sources. 
@@ -35,11 +33,12 @@ Pros: Cheaper to get started than an interface, more portable, can be made to wo
 Cons: Less versitile than an interface, not good for music (unless you're just doing vox/guitar) 
 
 
-- Shure MV5 Digital Condenser Microphone (Gray) + USB & Lightning Cable
-  - https://www.amazon.com/dp/B010W6W9EQ/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC23766
+- [Shure MV5 Digital Condenser Microphone (Gray) + USB & Lightning Cable](https://www.amazon.com/dp/B010W6W9EQ/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC23766)
+  - Small, lightweight, and portable 
   - Has Lightning cable support for iOS
-- Blue Yeti USB Microphone - Silver
-  - https://www.amazon.com/dp/B002VA464S/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC23766
+- [Blue Yeti USB Microphone - Silver](https://www.amazon.com/dp/B002VA464S/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC23766)
+  - Less portable
+  - Requires adapter for use with iOS 
 
 **Portable Audio Recorders**
 Portable audio recorders are the best way to record audio when you're away from a computer. For example, when you're in the field, shooting video. They make an excellent source for off-camera audio when doing video production, or a capture device for podcasts, or even live music performances. 
@@ -49,8 +48,10 @@ Pros: Reasonably priced, portable, high quality
 Cons: Requires extra step to move audio from device to computer, can't connect sources directly to it. 
 
 
-- Zoom H1 Handy Portable Digital Recorder
-  - https://www.amazon.com/Zoom-Handy-Portable-Digital-Recorder/dp/B003QKBVYK/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1483734524&sr=1-1
+- [Zoom H1 Handy Portable Digital Recorder](https://www.amazon.com/Zoom-Handy-Portable-Digital-Recorder/dp/B003QKBVYK/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1483734524&sr=1-1)
+  - Great for field audio
+  - Could serve as a good source for off-camera sound for video projects
+  - Could work for capturing audio for podcasts, or live concert performances
 
 ### Software
 
@@ -68,9 +69,21 @@ Professional quality video production used to require tens of thousands of dolla
 ### Hardware 
 The trick here is finding a camera with image stablization, optical zoom, and the biggest sensor (or group of sensors) you can manage. On the low end, expect to spend $200 or so, or around $800 for 4k (cinema resolution)
 
-- Canon VIXIA HF R600
-- Sony FDRAX53/B 4K HD Video Recording Camcorder (Black)
-	- https://www.amazon.com/Sony-FDRAX53-Video-Recording-Camcorder/dp/B01950TCEU/ref=sr_1_3?s=photo&ie=UTF8&qid=1483763434&sr=1-3&keywords=sony+4k
+- [Canon VIXIA HF R600](https://www.amazon.com/Canon-VIXIA-Black-Discontinued-Manufacturer/dp/B00RKNO06K)
+	- This model is functionally identical to the VIXIA HF R700, but can occasionally be found for cheaper
+    - Solid HD camera, better than anything in sub $200 price range has ever been 
+    - It's $200
+    - This is the cheapest way to get a video camera that can produce video with a truely professional feel 
+- [Sony FDRAX53/B 4K HD Video Recording Camcorder (Black)](https://www.amazon.com/Sony-FDRAX53-Video-Recording-Camcorder/dp/B01950TCEU/ref=sr_1_3?s=photo&ie=UTF8&qid=1483763434&sr=1-3&keywords=sony+4k)
+	- Captures 4k (That is, four times bigger than "full" HD, currently, a common cinema resolution) video 
+    - Larger image sensor 
+    - 20x Optical zoom 
+    - High Quality Image Stablization 
+- iPhone 6/7 
+	- The iPhone produces surprisingly good video, and it'll do in a pinch. 
+    - Apple's iMovie for iOS is less feature rich than the MacOS version, but it does enable quick editing directly from your capture device, and syncs with desktop iMovie reasonably well 
+    - The finished product probably won't look like professionally shot footage, but that's far less important than having quality content (a lesson Hollywood could stand to learn) 
+    - If you don't already have one, there are other problems with the iOS landscape that prevent me from recommending the iPhone, on principal, but if you already have one, you might as well make use of it
 
 
 ### Software 
