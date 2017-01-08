@@ -101,48 +101,91 @@ Most video editing software is an unfortunately complicated/difficult/expensive,
 Honestly, the old addage is true. The best camera is the one you have with you. If you have an iPhone, or a reasonably recent Android phone, it probably has a good enough camera on it for 75 - 80 % of what you need. For those occasions when a Phone Camera doesn't cut it, here are some suggestions for alternatives.
 
 ### Good and Cheap
-These are standard issue digital cameras that take photos that are better than most cell phones (though, to be fair, the iPhone comes damn close.)
+These are standard issue digital cameras that take photos that are better than most cell phones (though, to be fair, the iPhone comes reasonably close.) Areas where these cameras tend to shine over cellphones include optical zoom, low light performance, and resolution. They are also capable when it comes to video, but they are limited to shorter clips, and worse audio, than video cameras in the same price range.  
+
+- [Canon PowerShot ELPH 350 HS](https://www.amazon.com/dp/B00T3EQY8Q/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC17381)
+- [Nikon Coolpix S6900](https://www.amazon.com/dp/B00T85PPLC/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC17381)
 
 
 ### High Optical Zoom
 
 There are a few benefits to getting one of these cameras, with an integrated optical zoom. First, they take much larger pictures than most smartphones, with better colors, sharper details. Second, 20x optical zoom is nothing to laugh at. If deployed correctly, that optical zoom can make a world of difference to an image. The third benefit to this style of camera is a little more dubious: The Appearence of Professionalism. These cameras tend to look close enough to higher end cameras that the casual observer can't tell the difference. It's easier to bluff your way in to the press pool with something that looks like a pro would use it.
 
--
+These cameras are practically identical, and they generally feature: 
+
+- ~36 x optical zoom
+- reasonable low-light
+- Worse than the above cameras for general use, but significantly better for distant subjects
+
+
+- [Fujifilm FinePix S8600](https://www.amazon.com/Fujifilm-FinePix-Digital-Camera-3-0-Inch/dp/B00HGE3CXU/ref=sr_1_3?s=photo&ie=UTF8&qid=1483834806&sr=1-3&keywords=Fujifilm+Finepix+S8630)
+- [Sony DSC-H300/BM](https://www.amazon.com/Sony-DSC-H300-BM-Certified-Refurbished/dp/B00YSU4I5Q/ref=sr_1_18?s=photo&rps=1&ie=UTF8&qid=1483835004&sr=1-18&keywords=high+zoom+camera&refinements=p_85%3A2470955011%2Cp_36%3A-20000) 
+- [Kodak PIXPRO Astro Zoom](https://www.amazon.com/Kodak-AZ421-Digital-Opitcal-White/dp/B00M8C7U8I/ref=sr_1_1?s=photo&ie=UTF8&qid=1483835113&sr=1-1&keywords=zoom+camera&refinements=p_36%3A-20000)
+	
 
 ### Good Low Light
 
-Low light performance is super important in a lot of situations. Here are a few cameras that provide better low light performance than your standard smartphone (and one tip for improving that even more)
+Low light performance is super important in a lot of situations, but most cameras are at their worst in low light situations. Unfortunately, cameras that consistently provide high quality low-light performance tend to cost lots of money. This is one trick you might try for better low light performance. 
 
-- IR photography + an infrared flashlight
+Infrared Camera + [an infrared flashlight](https://www.amazon.com/Mini-Butterball-Infrared-Flashlight-Rechargeable/dp/B01EMZK58K/ref=sr_1_1?s=photo&ie=UTF8&qid=1483836045&sr=1-1&keywords=infrared+flashlight)
+
+Infrared light is invisible to the naked eye, so you can use an IR camera and an IR flashlight to capture details in complete darkness. Unfortunately, IR Cameras are hard to find outside of those designed for hunting applications. The PiNoir module for the raspberry pi may be the most easily obtained, but it is largely available in kit form. 
+
+If we come across a better IR solution, we'll update the guide. 
 
 ### Professional Quality
 
-DSLRs and Micro 4/3 cameras tend to be expensive and complicated. If you're a pro photographer, go for it! If not, this may be more trouble than its worth.
+DSLRs and Micro 4/3 cameras tend to be expensive and complicated. If you're a pro photographer, go for it! If not, this may be more trouble (or expense) than its worth.
 
-- Using Vintage Glass
-- Cheapest Bodies
-- Buying used DSLRs
+**Using Vintage Glass**
+Pentax's current line of SLRs and 4/3s cameras can use every K-Mount lens they released, since the introduction of the K-Mount system back in the 60s. These lenses are available everywhere, and they're generally cheap as heck (as long as you don't mind manual lenses.) 
+
+Adapters exist for using most vintage lenses with most modern mounting systems, but you'll have to pay attention to the crop factor (which will change the focal length of the lens.) 
+
+**Best Models**
+This is complicated. New cameras are released all the time, and they are hard to tell apart. Get the biggest sensor you can afford, with the lens mounting system that you're most comfortable with. 
+
+**Special Considerations** 
+SLRs and 4/3s cameras can take great video, but normally only in short bursts before they overheat. Having a camera body and detachable lenses means you have a lot of expensive, and fragile gear to cart around. Unless you know what you're doing, you aren't likely to get significantly better shots with a professional camera than you would with a point and shoot. 
+
 
 ### Film
 
 There is still something to be said for Analog Photography. While we don't recommend making a film camera the only camera you take on a shoot, knowing your way around an old school SLR, point-and-shoot, or Polaroid is a valuable skill.
 
-- Picking a vintage SLR
-- Instant Film (Fujifilm vs Impossible)
-- Getting film developed
-  - Developing your own
-- Why Bother?
+**Picking a vintage SLR**
+The trick here is finding a functional body that uses easy to find glass, and takes a commonly available battery. The Pentax K1000 normally fits this bill. They're cheap, they are full manual, they use commonly available glass, and they are practically indestructable. 
+
+They were never top of the line cameras. They were always middeling cameras from a middeling manufacturer, but they tick all the important boxes in terms of features and availability. Find a good film photography tutorial, use Zinc-Air batteries for the light meter. With a little luck, you'll get some great pictures. 
+
+**Instant Film**
+Instant Cameras (polaroids) were all the rage for a while. They can add a fun dimension to a media project. There are two ways to handle instant film today. Option one is the Fujifilm Instax line. New Instax Wide cameras run about $100, and film can be found for between $1 and $2 per print. The other option for instant photography is to find a vintage polaroid that is [Impossible compatible](https://us.impossible-project.com/). Impossible film tends to run about $3/shot, but has the benefit of the classic polaroid look.  
+
+**Getting film developed**
+If you don't have a quality idependent film lab nearby, you have two options for getting film developed. 
+
+- Option One: Photo Centers
+	- Many businesses still operate photolabs. If your local Walmart or Target still has a photo lab, you can usually drop your film off there. Generally, they'll mail it off for central proccessing. Walgreens will still develop in house. Most modern photo labs offer a CD only option that is only a few dollars. 
+    - Unless you don't have another option, it's usually a good idea to find an independent photo lab near you. They'll do a better job, and be more careful with your photos. 
+- Option two: DIY 
+	- If you're developing your film in black and white, and you don't mind dealing with some chemicals, going the DIY route has been the chosen option for as long as photo-journalism has been a field. 
+    - Don't try to go the DIY route for color photography. It's messy and barely works. 
+    - There are a handful of how-to guides out there, but basically you'll need: 
+    	- Developer 
+        	- bathe the film in this to start the development proccess. 
+        - Fixer
+        	- This stops the development proccess when it is finished, so you don't end up with blank images 
+        - Some tubs to do it all 
+
+Let me be clear here, the DIY option is not the best or easiest way, but it is the cheapest in the long run, and it's likely that it will remain a viable option long after commercial film development becomes essentially inaccessable. 
+
+
+*Why Bother?* 
+Most of the time, when I mention using traditional film photography, I'm met with blank stares. There are a few reasons to take pictures this way: It's the cheapest way to get high quality/professional photographs, especially in low-light conditions; it's fun; It is a tangible (analog) connection to our history. 
+
 
 ## Text
-
-### Software
-
-**Windows**
-
-**Mac**
-
-**Linux**
+Creating, managing, and colaborating on documents is a central function of most media projects. This should be simple, but it often isn't. So let's talk about how we can make it more simple: 
 
 **Collaborating**
 There are a few ways to collaborate on a text based project. Each has it's own hurdles, as discussed below 
@@ -165,68 +208,20 @@ There are a few ways to collaborate on a text based project. Each has it's own h
 	- Trading files on physical media is the old school way to collaborate 
 	- It's not the fastest or easiest method, but it's probably the most secure
 
-### Hardware
-
-**laptop/tablet**
+**Hardware**
 
  - Cheap Options:  
-	 - Kindle Fire + Bluetooth Keyboard
+	 - Kindle Fire (or your smartphone) + Bluetooth Keyboard
 	 - Acer Ideabook
 	 - Chromebook
-	 - Use what you already have 
-
-**Keyboard** 
-
-
-   
-
 
 ## Illustration
 
-## Animation
+-Free
+	- Firealpaca 
+	- Gimp 
+	- Paint.net 
 
-# Physical Stuff
-
-Up to this point, we've mostly dealt with making Digital stuff. Eventually, you'll want to make some Physical goods out of your digital stuff. Here are guides for doing just that, along with some suggested hardware, and some tricks to keep your prices low. In each case, we'll highlight DIY and Third Party methods, including a breakdown of the differences in cost and quality.
-
-## CDs (and DVDs and Bluray Discs)
-
-**DIY**
-
-**Third Party**
-
-## Cassettes
-
-**DIY**
-
-**Third Party**
-
-## Magazines and Comics
-
-**DIY**
-
-**Third Party**
-
-## Books
-
-**DIY**
-
-**3rd Party**
-
-## Clothes
-
-**DIY**
-
-**Third Party**
-
-## 3D Printing
-
-**DIY**
-
-**Third Party**
-
-## Posters
-
-**DIY**
-
-**Third Party**
+-Cheap 
+	- Paint Tool Sai (roughly $60) 
+	- Photoshop ($20/month) 
