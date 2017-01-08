@@ -22,14 +22,23 @@ AVCHD DVDs are neat! They are (generally) 720p movies, burned on to (generally) 
 ## Cassettes
 
 **DIY**
+Step 1: Make a Master tape 
+
+Playlist + Auxcable + Boombox 
+
+Step 2: Copies! 
+
+You can do these one at a time with any dual cassette decks. You can do many at a time with a Cassette duplicator. You can pick those up second hand for around $100. 
+
+Step 3: Packaging! 
+
+Print your J-Cards on 4x6 photo paper, and trim the to size. [This template can help.](https://www.duplication.ca/printspecs/k7insertspecs.htm) I like the [soft poly boxes.](https://www.deltamedia.com/1CSPB1.html?leftmenu=mediasuppliesnav&id=hoALnMSq)
+
+Labels are also nice. Dymo makes some, that aren't too expensive. 
 
 **Third Party**
+[These guys have the cheapest duplication rates.](http://nationalaudiocompany.com/Cassette-Duplication-C14001181.aspx)
 
-## Magazines and Comics
-
-**DIY**
-
-**Third Party**
 
 ## Books
 
