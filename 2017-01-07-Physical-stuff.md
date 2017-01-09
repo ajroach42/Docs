@@ -1,5 +1,18 @@
 Up to this point, we've mostly dealt with making Digital stuff. Eventually, you'll want to make some Physical goods out of your digital stuff. Here are guides for doing just that, along with some suggested hardware, and some tricks to keep your prices low. In each case, we'll highlight DIY and Third Party methods, including a breakdown of the differences in cost and quality.
 
+## Gear 
+To start things off, let's run down some gear you might want. 
+
+**Laser Printer**
+I recommend getting a cheap Brother laser printer for doing flyers, zines, and anything else you can get away with printing in black and white. Specifically, I recommend getting a Brother printer for two reasons. 1) You can get toner refills pretty cheaply online, so you can reuse the same toner cartridge 5-10 times, which brings your cost per page down to something like 1/10th of a cent. 2) The printers themselves are dirt cheap (often less than $100) and they last forever. 
+
+I've used my brother hl-2270dw to produce thousands of magazines, and it's still kicking. 
+
+**Color Printer** 
+Don't get anything fancy, you're going to wear this thing in to the ground. The key features to look out for are: Direct-to-disk CD Printing 
+
+
+
 ## CDs (and DVDs and Bluray Discs)
 
 **CDs**
@@ -43,6 +56,11 @@ Labels are also nice. Dymo makes some, that aren't too expensive.
 ## Books
 
 **DIY**
+DIY Bookmaking is steeped in tradition dating back to the dawn of recorded history. There are a few simple ways to go about it. Here are some simple techniques that will start you down the right path. 
+
+*Zine Style*
+Use 
+
 
 **3rd Party**
 
