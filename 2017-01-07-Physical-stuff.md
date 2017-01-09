@@ -147,6 +147,7 @@ There are a few worries with heat transfers:
 1. Longevity - heat transfers fade over time. I have iron-on shirts that are several years old, and while the images are still present, they do not look as nice as my screen-printed shirts from the same time frame. 
 
 **Third Party**
+
 The Printful is the best 3rd party clothing manufacturer that I know of. They will dropship single items, and their prices (though significantly higher than DIY) are not unreasonable. I've ordered from them on many occasions, and found them to be great to work with, helpful, and responsive. 
 
 They print directly to the shirt, the end results look wonderful, and they last as long as traditional manufacturing methods. 
@@ -156,17 +157,20 @@ Seriosuly, check them out.
 ## 3D Printing
 
 **DIY**
+
 If you want to make physical goods with a 3D printer, you'll need a 3D Printer. The monoprice Select Mini 3D printer is $200, and works well. 
 
 You'll also need to design 3D objects. I wish I could be more help with that, but it's still pretty difficult. Your best option is often to turn to one of the many public repositories of 3D printable objects. 
 
 **Third Party**
+
 3D hubs will match you with local folks who will print your items for you. Their rates are generally fairly low (though higher than taking the DIY route) and they quality of work tends to be excellent. 
 
 
 ## Posters
 
 **DIY**
+
 There are a bunch of ways to make posters. Some of the most popular: 
 
 Screenprinting - Works just like screen-printing on to cotton. Great if you want to do a limited run of high quality images in one or two colors. 
@@ -175,5 +179,6 @@ Large-Format Inkjets - Works just like printing anything else at home. Great if 
 
 
 **Third Party**
+
 Staples and Office Depot offer poster sized draft prints in black and white for ~$2, and color for ~$4. These are not super high quality prints, but they are cheap, huge, and they get the job done. They'll also do 11 x 17 color laser prints for ~$2. These look wonderful. Since there is a staples or an office depot in nearly every town, this is a great way to resupply when you're on tour. 
 
