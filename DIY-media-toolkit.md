@@ -11,11 +11,13 @@ Here we're running down a quick list of our top suggestions for affordable and u
 *Note: while we usually recommend (and use!) Free and Open Source software wherever possible, Media Production often benefits from the use of proprietary software. Making new things, as quickly and simply as possible is our primary goal, and we will use (and recommend) software that we disagree with ideologically when they are the best options for meeting larger goals.*
 
 ## Audio (podcasts + music)
+
 A big part of many media projects is audio production. From Podcasts, to music, to sound enineering for video, many media projects realy heavily on the creation, capture, and manipulation of audio. Here, we're going through various peices of hardware and software for capturing and manuplating sound. In the future, we'll likely create a more in depth guide to making music on the cheap.  
 
 ### Hardware
 
 **USB Audio Interface and XLR Mic**
+
 If you're making music, this is probably the way to go. A USB audio interface can normally take an XLR or 1/4" input, and transmit it to your computer over USB. A Decent USB audio interface is the most versitile way to being the proccess of capturing audio. Coupled with a cheap, high quality mic, a basic USB auto interface can serve as a simple entry point in a bedroom studio. 
 
 Pros: Versitile, high quality
@@ -26,6 +28,7 @@ Cons: Complex, not terribly portable, more expensive to get started than other o
 - [TASCAM US-2x2 USB Audio Interface](https://www.amazon.com/dp/B00MIXF2RS/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC94706)
 
 **USB Mic**
+
 USB Microphones are exactly what it says on the tin. These are mics with integrated audio interfaces, perfect for capturing high quality audio from voices for conversations, or other single audio sources. 
 
 Pros: Cheaper to get started than an interface, more portable, can be made to work with iOS and Android, Great for Podcasting 
@@ -41,6 +44,7 @@ Cons: Less versitile than an interface, not good for music (unless you're just d
   - Requires adapter for use with iOS 
 
 **Portable Audio Recorders**
+
 Portable audio recorders are the best way to record audio when you're away from a computer. For example, when you're in the field, shooting video. They make an excellent source for off-camera audio when doing video production, or a capture device for podcasts, or even live music performances. 
 
 Pros: Reasonably priced, portable, high quality
@@ -64,9 +68,11 @@ Capturing and editing audio is a complicated task, and the gold standards for so
 
 
 ## Video (films/tv shows/vlogs)
+
 Professional quality video production used to require tens of thousands of dollars worth of equipment. Now, even devices as common as the iPhone can shoot video in a quality that was possible at the consumer level 15 or 20 years ago. When dealing with dedicated video cameras, even some of those at the low end, can deliver results that would have costs thousands of dollars, even as recently as 10 years ago. 
 
 ### Hardware 
+
 The trick here is finding a camera with image stablization, optical zoom, and the biggest sensor (or group of sensors) you can manage. On the low end, expect to spend $200 or so, or around $800 for 4k (cinema resolution)
 
 - [Canon VIXIA HF R600](https://www.amazon.com/Canon-VIXIA-Black-Discontinued-Manufacturer/dp/B00RKNO06K)
@@ -87,6 +93,7 @@ The trick here is finding a camera with image stablization, optical zoom, and th
 
 
 ### Software 
+
 Most video editing software is an unfortunately complicated/difficult/expensive, but there is hope! If you have a mac, iMovie is a surpsingly competent video editor. For Windows, Windows Movie Maker doesn't completely suck (but it's not great.)  
 
 - iMovie
@@ -138,14 +145,17 @@ If we come across a better IR solution, we'll update the guide.
 DSLRs and Micro 4/3 cameras tend to be expensive and complicated. If you're a pro photographer, go for it! If not, this may be more trouble (or expense) than its worth.
 
 **Using Vintage Glass**
+
 Pentax's current line of SLRs and 4/3s cameras can use every K-Mount lens they released, since the introduction of the K-Mount system back in the 60s. These lenses are available everywhere, and they're generally cheap as heck (as long as you don't mind manual lenses.) 
 
 Adapters exist for using most vintage lenses with most modern mounting systems, but you'll have to pay attention to the crop factor (which will change the focal length of the lens.) 
 
 **Best Models**
+
 This is complicated. New cameras are released all the time, and they are hard to tell apart. Get the biggest sensor you can afford, with the lens mounting system that you're most comfortable with. 
 
 **Special Considerations** 
+
 SLRs and 4/3s cameras can take great video, but normally only in short bursts before they overheat. Having a camera body and detachable lenses means you have a lot of expensive, and fragile gear to cart around. Unless you know what you're doing, you aren't likely to get significantly better shots with a professional camera than you would with a point and shoot. 
 
 
@@ -154,14 +164,17 @@ SLRs and 4/3s cameras can take great video, but normally only in short bursts be
 There is still something to be said for Analog Photography. While we don't recommend making a film camera the only camera you take on a shoot, knowing your way around an old school SLR, point-and-shoot, or Polaroid is a valuable skill.
 
 **Picking a vintage SLR**
+
 The trick here is finding a functional body that uses easy to find glass, and takes a commonly available battery. The Pentax K1000 normally fits this bill. They're cheap, they are full manual, they use commonly available glass, and they are practically indestructable. 
 
 They were never top of the line cameras. They were always middeling cameras from a middeling manufacturer, but they tick all the important boxes in terms of features and availability. Find a good film photography tutorial, use Zinc-Air batteries for the light meter. With a little luck, you'll get some great pictures. 
 
 **Instant Film**
+
 Instant Cameras (polaroids) were all the rage for a while. They can add a fun dimension to a media project. There are two ways to handle instant film today. Option one is the Fujifilm Instax line. New Instax Wide cameras run about $100, and film can be found for between $1 and $2 per print. The other option for instant photography is to find a vintage polaroid that is [Impossible compatible](https://us.impossible-project.com/). Impossible film tends to run about $3/shot, but has the benefit of the classic polaroid look.  
 
 **Getting film developed**
+
 If you don't have a quality idependent film lab nearby, you have two options for getting film developed. 
 
 - Option One: Photo Centers
@@ -181,13 +194,16 @@ Let me be clear here, the DIY option is not the best or easiest way, but it is t
 
 
 *Why Bother?* 
+
 Most of the time, when I mention using traditional film photography, I'm met with blank stares. There are a few reasons to take pictures this way: It's the cheapest way to get high quality/professional photographs, especially in low-light conditions; it's fun; It is a tangible (analog) connection to our history. 
 
 
 ## Text
+
 Creating, managing, and colaborating on documents is a central function of most media projects. This should be simple, but it often isn't. So let's talk about how we can make it more simple: 
 
 **Collaborating**
+
 There are a few ways to collaborate on a text based project. Each has it's own hurdles, as discussed below 
 
 - git
