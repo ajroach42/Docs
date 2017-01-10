@@ -98,7 +98,7 @@ Most video editing software is an unfortunately complicated/difficult/expensive,
 
 - iMovie
 - Windows Movie Maker 
-- Open Shot
+- Open Shot (open source) 
 - Shotcut 
 - Adobe Premiere ($20/month) 
 
@@ -240,4 +240,4 @@ There are a few ways to collaborate on a text based project. Each has it's own h
 
 -Cheap 
 	- Paint Tool Sai (roughly $60) 
-	- Photoshop ($20/month) 
+	- Photoshop ($20/month)
