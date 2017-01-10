@@ -62,7 +62,7 @@ You can print sleeves for empty bluray cases using a standard 8.5x11 printer, or
 
 ## Cassettes
 
-**DIY**
+### DIY
 
 Step 1: Make a Master tape 
 
@@ -82,7 +82,7 @@ Labels are also nice. [Here are some, that aren't too expensive.](https://www.am
 
 Something to consider: you may want to include a digital download of the album with the tape. In my experience, this really helps drive cassette sales over other mediums. 
 
-**Third Party**
+### Third Party
 
 [These guys have fairly cheap duplication rates](http://nationalaudiocompany.com/Cassette-Duplication-C14001181.aspx) if you're making more than 100 copies. They're friendly, and do good work. 
 
