@@ -1,6 +1,10 @@
+## Normal Occult Investigations
+
+### Minnie Harkness 
+
 They say the way to a man's heart is through his stomach. I don't know much for men, but if you try to get to a vampire's heart through his stomach... well, that's going to end pretty poorly for you. The way to a vampire's heart is through his chest with a wooden stake, if you catch my meaning. By the time I was through, I'd found the hearts of five or six of them suckers, no stomachs required.  
 
-The name's Normal. Frank Normal, Occult detective. I solve the crimes that the other detectives are too scared, too smart, or too boring to touch. Hell, I'll do just about anything for $29 a day plus expenses. I been in this buisness a lotta years, and with my reputation, and all the wackadoo witchcraft Washington attracts, you'd think I'd have it pretty swell. Thing is, you'd be wrong. 
+The name's Normal. Frank Normal, Occult detective. I solve the crimes that the other detectives are too scared, too smart, or too boring to touch. Hell, I'll do just about anything for $29 a day plus expenses. I been in this buisness a lotta years, and with my reputation, and all the wackadoo witchcraft Washington attracts, you'd think I'd have it pretty swell. Thing is, you'd be wrong.
 
 Besides, if I had things so swell, there'd be no story. And brother is there ever a story. This one starts, as most of the great ones do, with a dame.
 
