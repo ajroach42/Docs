@@ -112,12 +112,52 @@ Alternately, it's possible that I walked up to the largest of them and said "All
 
 Either way, I survived my encounter with the crowd of angry vampires. I was pretty badly beaten, I don't remember anything, and a perfectly good gun was ruined, but I survived.
 
-I took a look at my newfound sobriety, injury, lack of a functional firearm, and complete dearth of knowledge as to the nature of my assailants or my employer, and decided that it was time to do some investigating. So, as you would expect, I fished a piece of chalk out of the nightstand, and quickly scribbled some illegible sigils on the wooden floor of my bedroom. 
+I took a look at my newfound sobriety, injury, lack of a functional firearm, and complete dearth of knowledge as to the nature of my assailants or my employer, and decided that it was time to do some investigating. So, as you would expect, I fished a piece of chalk out of the nightstand, and quickly scribbled some illegible sigils in to a small octagon on the wooden floor of my bedroom. 
 
 The sigils were illegible for two reasons. 1) to say my penmanship leaves something to be desired implies that there is anything desirable about it whatsoever and, 2) the symbols were from an ancient language that no human had been able to read for at least 500 years. Thankfully, the demon hoard doesn't tend to mind a little messy handwriting. I bent over the sigils, lit a candle in the middle, and cracked an egg on my head. 
 
-Sure, it felt ridiculous, but thems the rules. 
+Sure, it felt ridiculous, but thems the rules.
 
+Half a moment passed. Long enough for me to wonder if I'd done everything right, but not long enough to try and change anything. Then there was a small pop, and in the center of the small octagon stood a tiny demon, in a bellhop's uniform.
 
+"Jackson Q. Demon, my old pal" I said. 
 
+"I hate it when you draw the octagon so small" he said, his voice shrill. 
+
+"That's why I keep doing it" I responded. I'd really outdone myself this time, he was barely 8 inches tall. 
+
+"And you wonder why no one else ever wants to help you." he tried to sound menacing, or at least angry, but it just came accross as comical. I tried to keep a straight face, but I laughed in spite of myself. 
+
+"Look, Jackson, I'm in trouble and I need some help." 
+
+That got his attention. I could see the tiny wheels turning inside his tiny head. He was already looking for an angle. You'll never meet a con-artist like a little demon. 
+
+"Alright, alright" the little guy said "I'll help, but it's gonna cost you." 
+
+"You don't even know what the trouble is yet" I told him. 
+
+"The trouble is that you got beat up by a bunch of vampires, they broke your gun, and now you can't remember why." The little imp grinned, and I hated it. 
+
+"How do you" I started. 
+
+"Skip it" Jackson said. "You want my help or not?" 
+
+"Yeah, I want your help." 
+
+"That's what I thought. My rate is $12 a day, plus expenses." 
+
+"You're rates gone up, Jack" I said, as I reached for my wallet. He made some inneffective quip about that being the way of things, but I didn't really hear him. There was a slip of paper in my wallet, that said: 
+
+	Frank, it's Frank. If you're reading this, you summoned Jackson. I hope you made him super tiny, that always makes me laugh. Anyway, you summoned him last night, too. He's already on the case, he's already been paid. His rate was $10/day, and don't let him tell you no different. You've got him on a two day retainer. 
+    
+    Make him tell you what he knows about the vamps. It's what you knew, before things went screwy. 
+    
+"Gee, Jackson, looks like I already paid you. At $10/day, on a two day retainer. Now tell me what you know 'bout the vamps, and why I can't remember nothin." 
+
+Jackson grinned "See, Frank, that's why I like you. Even when you're a step ahead 'a me, you're still two steps behind me." 
+
+----
+	My name is Quetzitechnolichigan, but most meatbags call me Jackson. I'm a lesser demon, and a reporter for the Purgatory Gazette. When money's tight, I freelance as a fixer, an occult fence, and occasionally, an informant for the handful of humans that still know how to draw the squigles. I've been working with Frankie for years, but I've never seen him as messed up as he was that night. 
+    
+    
 
