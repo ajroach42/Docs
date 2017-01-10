@@ -14,7 +14,7 @@ I didn't. Instead I found a dame. The dame knocked on the door, which was odd. F
 
 "Harker. Call me Minnie" she said in a voice that reaked of quiet authority. 
 
-"Minnie it is then. Please, have a seat." I said, gesturing to a green leather sofa opposite my desk, and feeling for all the world like the most inaddiquit man that has ever lived. She was a looker, 5' 7", slim, pale, dressed to the nines. 
+"Minnie it is then. Please, have a seat." I said, gesturing to a green leather sofa opposite my desk, and feeling for all the world like the most inaddiquit man that has ever lived. She was a looker, 5' 7", slim, pale, big red lips, dressed to the nines. 
 
 She sat down, and looked at me expectantly. I realized I was staring. 
 
@@ -24,9 +24,11 @@ She sat down, and looked at me expectantly. I realized I was staring.
 
 "Minnie, then. Can I offer you some coffee Minnie?" 
 
-"Oh, I never drink" she said, and paused for a beat to long before adding "Coffee, that is. I never drink Coffee." 
+"Oh, I never drink" she said, and paused for a beat too long before adding "Coffee, that is. I never drink Coffee." 
 
-If I had been thinking straight, I would have sent her out the door right that second. Throwing me an old softball like that. Hell, it was practically Lugossi. A pale woman with a white parasol, dressed head to toe in black--Her name was Minnie Harker for chrissake--stood in my office and practically quotes The Count himself, and I didn't notice. But she was beautiful, and I needed a client. 
+If I had been thinking straight, I would have sent her out the door right that second. Throwing me an old softball like that. Hell, it was practically Lugossi. A pale woman with a white parasol, dressed head to toe in black--Her name was Minnie Harker for chrissake--stood in my office, damn near quotes The Count himself, and I didn't notice. 
+
+In my defense, she was beautiful, and I needed a client. 
 
 "What can I do for you Minnie?" I asked, with an earnestness I'm seldom found wearing. 
 
@@ -39,3 +41,48 @@ If I had been thinking straight, I would have sent her out the door right that s
 It seemed like a swell deal at the time. 
 
 I stayed in the office for another few minutes after she left, sucking on a bottle of scotch and trying to shake the sense that I had just gotten myself in the middle of something bad. She'd been out the door five whole minutes before I pieced together she was a vampire, but by then it was already too late.
+
+I stood up, poured the rest of the office scotch and the remains of the office coffee in to a mug, grabbed my coat, my beretta, and my hat, and made for the door. There was a storm blowing in, the sun had already set (and it wasn't even half past five), and I'd just agreed to tail two probable vampires for another probable vampire. I was in for a long night. 
+
+The thing about being an Occult Detective is that you have a tendency to piss off, well, everyone. Over the years, I've brawled with more than any man's fair share of Werewolfs, Deathcults, Demons, Angels, and a rogue God or two. Hell, it's barely been a year since I was in a spitting match with ol' Lucifer himself. And, to be clear, that's not a game I want to play again any time soon, it would have almost been preferable to what came next. 
+
+I don't normally dance with Vampires. In all my years as an Occult Investigator, I'd managed to stay, more or less, off their radar. That was by design. See, most vampires take the whole "brotherhood" thing pretty seriously. You piss one of them off, and next thing you know his six buddies have mesmerised you in to performing a political assassination and jumping off a bridge. 
+
+I was not looking forward to this case. 
+
+I took a swing from my mug, and left it on top of the filing cabinet by the door. As the burn subsided I made a mental note to pad my expense report a little more than normal, and stepped out the front door and in to the cold winter air. 
+
+-------
+
+>Hiya, folks around these parts call me Ruby. Folks 'round your parts would probably just call me "AHHH! LOOK! WHAT IS THAT THING!", or "BE GONE FOUL CREATURE OF THE NIGHT" but I'll try not to take it personally. I'm what you would call a creature of unspeakable terror. You know the type I mean, all tenticles and teeth. I run a little speakeasy that caters to occult types a few blocks from Frank's office. 
+
+>Frank stops in most nights on his way home from the office. I've never understood that, because I know he pulls from his office bottle at least once an hour, but he never causes any trouble and he's helped me out a time or two, so I don't ask too many questions. When he came by that night, well, that night things was different. Frank kept alternating between lookin' like he was in a trance and lookin like he was terrified. I couldn't help but check in on him. 
+
+>When he saw me, he screamed. This was pretty normal. I let him get it out of his system. Eventually, he stopped and said "Ruby, I think I'm in trouble" more sheepishly than I can ever remember him speaking. I slid over to the piano in the corner of the room and asked Howie to take over at the bar, then I told Frank to join me in the back where we could talk.
+
+>It took a lot to shake up Frank, so when we had found a little bit of privacy, I decided to get some answers. 
+
+>"What's goin on Frankie?" I said, trying to sound concerned. 
+
+>"Ruby... I got a new client tonight" 
+
+>"Well that's great news Frank, why do you look like someone shot your dog?" 
+
+>"Ruby..." He said, his mouth hanging open like he was trying to force words through it. Eventually, he managed to continue "What do you know about Minnie Harker?" 
+
+> The name hit me like a punch to the gut. Well, that's not fair, since a punch to the gut wouldn't be possible or effective against me, as I'm a massive creature of unimaginable horror. The name hit me like a punch to the gut would hit you, or another soft squishy human. My vision blurred. 
+
+>"I feel like I hit a nerve, there" Frank said, with a wince. I must have been emmitting a low level field of emotional pain. It happens sometimes when I'm caught off guard. 
+
+>"Frank, Minnie was a dear friend of mine. Her death was tragic, but there was nothing mysterious about it." 
+
+>Frank winced again, but this time it was under his own power. He looked at me with disbelief in his eyes. With more disbelief in his eyes than is normally found in the eyes of someone staring at a barkeep of unimaginable ancient horror. 
+
+>"Ruby, I think I better start at the beginning" Frank finally said. 
+
+>He told me about seeing "The Dame". He told me about his money troubles. He told me about the "I Never Drink Coffee" line. If I could have been sure it wouldn't have imediately destroyed every bone in his face, I would have slapped him and called him a fool. 
+
+>Instead, I said simply "Frank, how stupid are you?" 
+
+---- 
+
