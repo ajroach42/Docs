@@ -1,5 +1,11 @@
 Up to this point, we've mostly dealt with making Digital stuff. Eventually, you'll want to make some Physical goods out of your digital stuff. Here are guides for doing just that, along with some suggested hardware, and some tricks to keep your prices low. In each case, we'll highlight DIY and Third Party methods, including a breakdown of the differences in cost and quality.
 
+*A warning about DIY.* 
+
+"DIY or DIE" is a common refrain among the DIY/Maker community. It's a noble idea, but one that I've often found does not hold up in practice. Your time is valuable. If you have 10 hours to devote to creating new things, and you spend 9 hours of that making CDs/DVDs/Books, you're not meeting your potential. 
+
+Don't be afraid to work with 3rd parties (or recruit help) for those times when DIY or Die leaves you feeling dead. 
+
 ## Gear 
 
 To start things off, let's run down some gear you might want. 
@@ -83,21 +89,21 @@ Something to consider: you may want to include a digital download of the album w
 
 ## Books/magazines/comics
 
-*Preping your files* 
+**Preping your files**
 
 The easiest way to prep your files is in MS-Word. Set Word up for 5.5x8.5 pages, with at least .25" margins. Add page numbers in the footer, paste in your document, and save, then export to PDF. You can use this file with our DIY binding methods, or with a third party printer. 
 
-**DIY**
+### DIY
 
 DIY Bookmaking is steeped in tradition dating back to the dawn of recorded history. There are a few simple ways to go about it. Here are some simple techniques that will start you down the right path. 
 
-*Zine Style*
+**Zine Style**
 
 Use your Laser Printer and long arm stapler (see above) to print and bind your file. When printing, select "booklet style" from the options menu. You won't get a spine, it'll look cheap, and it can cost you less than $.10 per copy. If you absolutely need color, you can do that with your inkjet printer, but it does slow the proccess down and cost more. I only really recommend it for comic books, and for covers for traditional books, everything else is fine in Black and White. 
 
 This method works best for books/magazines/comics of 40 pages or less. If you need more pages than that, and you want to use the traditional zine method, replace the staples with stitching like so: 1) using an awl, drill, or nail, make four holes through your stack of paper. 2) stitch your spine together. This will result in something that looks entirely unlike a traditional book, but it serves it's purpose in many cases. 
 
-*Semi-Traditional Binding* 
+**Semi-Traditional Binding**
 
 If your zine/book/comic is more than 40 pages (or so) the Zine binding with a long arm stapler won't work anymore. In this instances, you have a couple of DIY options, but what I've found that works best is a play on traditional bookbinding. Many books from the 50s and 60s were made using methods very similar to this. 
 
@@ -121,21 +127,21 @@ This method can be used to cheaply and (somewhat) quickly make single copies of 
 
 
 
-**3rd Party**
+### 3rd Party
 
 Print on Demand book manufacturing is not terribly expensive today. There are several options, including: Amazon CreateSpace, Barnes and Noble NookPress, and Lulu. Each of these companies allows you to print single or multiple copies of books, and have them shipped to you, or directly to your customers. This is the cheapest way to get a book that feels professional, through and through. It is more expensive, and takes longer, than going the hand-made route, but it can save considerable effort, and the end results look very nice. 
 
 ## Clothes
 
-**DIY**
+### DIY
 
-*Screen Printing!* 
+**Screen Printing!**
 
 Screen printing isn't super hard, but it does require access to some chemicles you wouldn't normally have around, and the DIY method can really only produce single color designs. That said, a screen printed shirt looks good, and the design will last as long as any traditional manufacturing method. In bulk, costs can be as low as $0.50 + cotton/shirt. 
 
 Here is [a step by step guide to screenprinting at home](http://lifehacker.com/5886483/simple-guide-to-screen-printing-your-own-shirts). 
 
-*Iron ons!* 
+**Iron ons!** 
 
 Heat transfers, or iron-ons are another way to put your designs on t-shirts, handbags, and even canvas shoes. It takes a little practice to get the method right (essentially, more heat, more pressure, and more time. When you think you're done, double it) but the end results can be very nice, and in full color.
 
@@ -146,9 +152,9 @@ There are a few worries with heat transfers:
 1. Dark Fabrics - Ironing on to darker fabrics requires using a more complicated iron on, that is essentially a latex sheet that you'll trim to size and adhear to your fabric. This gives you the ability to use white, but it can be less comfortable to wear, and takes practice to get right. 
 1. Longevity - heat transfers fade over time. I have iron-on shirts that are several years old, and while the images are still present, they do not look as nice as my screen-printed shirts from the same time frame. 
 
-**Third Party**
+### Third Party**
 
-The Printful is the best 3rd party clothing manufacturer that I know of. They will dropship single items, and their prices (though significantly higher than DIY) are not unreasonable. I've ordered from them on many occasions, and found them to be great to work with, helpful, and responsive. 
+[Printful](https://www.theprintful.com) is the best 3rd party clothing manufacturer that I know of. They will dropship single items, and their prices (though significantly higher than DIY) are not unreasonable. I've ordered from them on many occasions, and found them to be great to work with, helpful, and responsive. 
 
 They print directly to the shirt, the end results look wonderful, and they last as long as traditional manufacturing methods. 
 
@@ -156,20 +162,20 @@ Seriosuly, check them out.
 
 ## 3D Printing
 
-**DIY**
+### DIY
 
 If you want to make physical goods with a 3D printer, you'll need a 3D Printer. The monoprice Select Mini 3D printer is $200, and works well. 
 
 You'll also need to design 3D objects. I wish I could be more help with that, but it's still pretty difficult. Your best option is often to turn to one of the many public repositories of 3D printable objects. 
 
-**Third Party**
+### Third Party
 
 3D hubs will match you with local folks who will print your items for you. Their rates are generally fairly low (though higher than taking the DIY route) and they quality of work tends to be excellent. 
 
 
 ## Posters
 
-**DIY**
+### DIY
 
 There are a bunch of ways to make posters. Some of the most popular: 
 
@@ -178,7 +184,6 @@ Screenprinting - Works just like screen-printing on to cotton. Great if you want
 Large-Format Inkjets - Works just like printing anything else at home. Great if you already have the printer, and have a realiable source for cheap inks and paper. 
 
 
-**Third Party**
+### Third Party
 
-Staples and Office Depot offer poster sized draft prints in black and white for ~$2, and color for ~$4. These are not super high quality prints, but they are cheap, huge, and they get the job done. They'll also do 11 x 17 color laser prints for ~$2. These look wonderful. Since there is a staples or an office depot in nearly every town, this is a great way to resupply when you're on tour. 
-
+Staples and Office Depot offer poster sized draft prints in black and white for ~$2, and color for ~$4. These are not super high quality prints, but they are cheap, huge, and they get the job done. They'll also do 11 x 17 color laser prints for ~$2. These look wonderful. Since there is a staples or an office depot in nearly every town, this is a great way to resupply when you're on tour.
