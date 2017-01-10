@@ -1,6 +1,6 @@
 They say the way to a man's heart is through his stomach. I don't know much for men, but if you try to get to a vampire's heart through his stomach... well, that's going to end pretty poorly for you. The way to a vampire's heart is through his chest with a wooden stake, if you catch my meaning. By the time I was through, I'd found the hearts of five or six of them suckers, no stomachs required. Seems the only thing I couldn't find was my client, so's that I could get paid. Ain't that how they all go? I knew I should have insisted on that retainer. 
 
-The name's Normal. Frank Normal, Occult detective. I solve the crimes that the other detectives are too scared, too smart, or too boring to touch. Hell, I'll do just about anything for $29 a day plus expenses. I been in this buisness a lotta years, and with my reputation, and all the wackadoo witchcraft Washington attracts, you'd think I'd have it pretty swell. Thin is, you'd be wrong. 
+The name's Normal. Frank Normal, Occult detective. I solve the crimes that the other detectives are too scared, too smart, or too boring to touch. Hell, I'll do just about anything for $29 a day plus expenses. I been in this buisness a lotta years, and with my reputation, and all the wackadoo witchcraft Washington attracts, you'd think I'd have it pretty swell. Thing is, you'd be wrong. 
 
 Besides, if I had things so swell, there'd be no story. And brother is there ever a story. This one starts, as most of the great ones do, with a dame.
 
@@ -38,4 +38,4 @@ If I had been thinking straight, I would have sent her out the door right that s
 
 It seemed like a swell deal at the time. 
 
-I stayed in the office for another few minutes after she left, sucking on a bottle of scotch and trying to shake the sense that I had just gotten myself in the middle of something bad. She'd been out the door five whole minutes before I pieced together she was a vampire, but by then it was already too late. 
+I stayed in the office for another few minutes after she left, sucking on a bottle of scotch and trying to shake the sense that I had just gotten myself in the middle of something bad. She'd been out the door five whole minutes before I pieced together she was a vampire, but by then it was already too late.
