@@ -152,66 +152,75 @@ That got his attention. I could see the tiny wheels turning inside his tiny head
 
 "You're rates gone up, Jack" I said, as I reached for my wallet. He made some inneffective quip about that being the way of things, but I didn't really hear him. There was a slip of paper in my wallet, that said: 
 
-	Frank, it's Frank. If you're reading this, you summoned Jackson. I hope you made him super tiny, that always makes me laugh. Anyway, you summoned him last night, too. He's already on the case, he's already been paid. His rate was $10/day, and don't let him tell you no different. You've got him on a two day retainer. 
+	Frank, it's Frank. If you're reading this, you summoned Jackson. 
     
-    Make him tell you what he knows about the vamps. It's what you knew, before things went screwy. 
+    I hope you made him super tiny, that always makes me laugh. 
+    Anyway, you summoned him last night, too. 
     
+    He's already been paid. His rate was $10/day, and don't let him 
+    tell you no different. You've got him on a two day retainer. 
+    
+    Make him tell you what he knows about the vamps. 
+    
+    It's what you knew, before things went screwy. 
+
 "Gee, Jackson, looks like I already paid you. At $10/day, on a two day retainer. Now tell me what you know 'bout the vamps, and why I can't remember nothin." 
 
 Jackson grinned "See, Frank, that's why I like you. Even when you're a step ahead 'a me, you're still two steps behind me." 
 
 ----
-	My name is Quetzitechnolichigan, but most meatbags call me Jackson. I'm a lesser demon, and a reporter for the Purgatory Gazette. When money's tight, I freelance as a fixer, an occult fence, and occasionally, an informant for the handful of humans that still know how to draw the squigles. I've been working with Frankie for years, but I've never seen him as messed up as he was that night. 
-    
-    He summoned me a little past 11 pm, right in the middle of the street. He was bleeding, and covered in the blood of several other creatures. His gun was half-way to being a pretzle. It was a mess. I started to crack wise, as you do in these situations, but before I could get my banter wound up he stops me, and real grim he says "I don't have much time. I'm drunk. I'm tired. I've been beaten half to death. And I just killed the King of the local vampire coven, along with his five favorite accolytes." 
-    
-    That shut me up real fast. I don't mess with Vampires. So I just stood there and listened. He kept talkin', real fast, and he got me up to speed. There was a dame, she was trouble, she lied about who she was, before he had a chance to figure out what was goin' on, the stiffs he was supposed to investigate jumped him in front of his apartment. He unloaded his gun in to the first one, which didn't do much. He turned a fruit stand in to a coupla wood steaks, and proceeded to go man-to-man with the strongest vampires in the city. 
-    
-    Apparently, he was so drunk they couldn't mesmerize him. Apparently, the more he sobered up, the more their attempts to erase his memory started to work. Apparently, as they fought, he'd pieced together that the dame that had been to see him earlier that day really was Minnie. The frail everyone thought was Minnie was the real imposter, and the Hunter that did it all was Minnie's brother Drake. 
-    
-    How he figured all that out while shoving steaks through the hearts of vampires I'll never know. The man was good, but I'd never tell him that. Eventually, he stopped talking, and told me what he needed me to do. 
-    
-    "Jackson" he says "Jackson ol' buddy, I need you to help me get upstairs and in to bed. I need you to find me a new gun. And I need you to find my client, so I can get paid." 
-    
-    I told him that this was fine, and that I'd work for my usual fee: $5/day plus expenses. He slips me five dollars, and we head in to the building. 
-    
-    A few minutes later, as we're walking up the stairs, he stops and looks at me real serious like.  "Jackson" he says "Jackson ol' buddy, I need you to help me get upstairs and in to bed. I need you to find me a new gun. And I need you to find my client, so I can get paid." 
-    
-    I told him that this was fine, and that I'd work for my usual fee: $10/ day plus expenses, and I'd need two days in advance. The bloodsuckers musta done a real number on him, cause he agreed! Here I am with $25 in my pocket. My luck wasn't perfect though. He insisted on writing himself a note and leaving it in his wallet so he didn't pay me again the next day. 
-    
-    I led him to his room, his facculties fading quickly in the face of his pending sobriety and the massive onslaught of magic the vampires had thrown at him. I left a rod in his coat pocket, with five or six fireball charges left on it. I'm not about to hand that man a weapon that can hurt me, but those fireballs will put a hole through most anyone else. Then, I set off to find his client.
-    
-    It took me about half an hour to track her down. She was staying at a hotel uptown. I told her who I was, and explained that Frank had sent me. She paid in full, plus extra for his physical discomfort, right there on the spot. $60 total, more money than I'd held in a long time. Then she assured me that the vampires wouldn't come looking for him again. 
-        
-    So the next morning roles around, and he summons me again. I nearly managed to talk him out of another fee, but he found his note before he found any cash. It's all for the best, anyway, seeing as I already had the dough from his client. I figured I'd tell him about that, one day, but I wasn't planning on making it today. 
-    
-    I fill him in on a few of the details. I tell him about the fight, and about summoning me. I tell him that there was an obvious conspiracy, what with Minnie being dead and his client being an imposter, and that I'm sure he'll be able to work all the details out for himself once his head clears. At that, he winces. I leave out the first $5 he paid me, and conviently forget to mention that I'd run in to his client. I tell him about the rod in his pocket, and that it should only take me another day or two to find the girl. 
-    
-    "I'd do it myself" he starts. 
-    
-    "Frank, my boy, you're in no shape to leave this apartment. I insist that you stay here. I'll track her down, and get you your money. It'll take two days, three tops." 
-    
-    "Jackson, if I didn't feel so bad, I'd come over there and punch you." 
-    
-    "There's a reason I gave you a rod, a not a gun, Frank." I said with a grin. "Now you just lay back and let old Jackson Q. Demon take care of the rest. It shouldn't take me more than three days, four at the outside." 
-    
-    "Jackson, I'm serious. Stop jerking me around. If I can't find Minnie before she skips town, or before the other vampires come after me..." 
-    
-    "Frank, buddy, It's me Quetzitechnolichigan. Have I ever steered you wrong?" 
-    
-    "Jackson, if you don't find the girl soon, I'm going to leave you that size forever." Frank said with a vindictive look in his eye. 
-    
-    "Fine, fine. I heard she was staying in a hotel up the way, I'll go find her, just return me to normal size first, okay?" 
-    
-    Frank made good, and I left. I swung by Ruby's for a drink. Frank wouldn't like it, but he was in no position to complain. Ruby always makes for good conversation, even if being in physical proximity to her does put my teeth on edge. I stayed for a few drinks, and let Frank sweat for a couple hours. Eventually, I made my way back to his place. 
-    
-    "Frank, I found her room, but she was gone." I said, with a hint of remorse in my voice. "She left an envelope with your name on it. Inside was $25, and a note that said 'They's coming, be careful'." I handed him the $25, trying to keep a straight face. 
-        
-    Now, what happened next absolutely warms my little demon heart. Frankie looks me square in the eye, pulls a gun out from under his pillow, and says "I want the rest of the money you little creep." 
-    
-    I disapeared outa there in a flash, but I left behind another $30. If he ever asks about the last five, I'll tell him the rest was "expenses" 's what he woulda done. I gotta hand it to ol' square jaw, I'm still not sure how he knew I was pulling one over on him. 
+_My name is Quetzitechnolichigan, but most meatbags call me Jackson. I'm a lesser demon, and a reporter for the Purgatory Gazette. When money's tight, I freelance as a fixer, an occult fence, and occasionally, an informant for the handful of humans that still know how to draw the squigles. I've been working with Frankie for years, but I've never seen him as messed up as he was that night. 
+
+He summoned me a little past 11 pm, right in the middle of the street. He was bleeding, and covered in the blood of several other creatures. His gun was half-way to being a pretzle. It was a mess. I started to crack wise, as you do in these situations, but before I could get my banter wound up he stops me, and real grim he says "I don't have much time. I'm drunk. I'm tired. I've been beaten half to death. And I just killed the King of the local vampire coven, along with his five favorite accolytes." 
+
+That shut me up real fast. I don't mess with Vampires. So I just stood there and listened. He kept talkin', real fast, and he got me up to speed. There was a dame, she was trouble, she lied about who she was, before he had a chance to figure out what was goin' on, the stiffs he was supposed to investigate jumped him in front of his apartment. He unloaded his gun in to the first one, which didn't do much. He turned a fruit stand in to a coupla wood steaks, and proceeded to go man-to-man with the strongest vampires in the city. 
+
+Apparently, he was so drunk they couldn't mesmerize him. Apparently, the more he sobered up, the more their attempts to erase his memory started to work. Apparently, as they fought, he'd pieced together that the dame that had been to see him earlier that day really was Minnie. The frail everyone thought was Minnie was the real imposter, and the Hunter that did it all was Minnie's brother Drake. 
+
+How he figured all that out while shoving steaks through the hearts of vampires I'll never know. The man was good, but I'd never tell him that. Eventually, he stopped talking, and told me what he needed me to do. 
+
+"Jackson" he says "Jackson ol' buddy, I need you to help me get upstairs and in to bed. I need you to find me a new gun. And I need you to find my client, so I can get paid." 
+
+I told him that this was fine, and that I'd work for my usual fee: $5/day plus expenses. He slips me five dollars, and we head in to the building. 
+
+A few minutes later, as we're walking up the stairs, he stops and looks at me real serious like.  "Jackson" he says "Jackson ol' buddy, I need you to help me get upstairs and in to bed. I need you to find me a new gun. And I need you to find my client, so I can get paid." 
+
+I told him that this was fine, and that I'd work for my usual fee: $10/ day plus expenses, and I'd need two days in advance. The bloodsuckers musta done a real number on him, cause he agreed! Here I am with $25 in my pocket. My luck wasn't perfect though. He insisted on writing himself a note and leaving it in his wallet so he didn't pay me again the next day. 
+
+I led him to his room, his facculties fading quickly in the face of his pending sobriety and the massive onslaught of magic the vampires had thrown at him. I left a rod in his coat pocket, with five or six fireball charges left on it. I'm not about to hand that man a weapon that can hurt me, but those fireballs will put a hole through most anyone else. Then, I set off to find his client.
+
+It took me about half an hour to track her down. She was staying at a hotel uptown. I told her who I was, and explained that Frank had sent me. She paid in full, plus extra for his physical discomfort, right there on the spot. $60 total, more money than I'd held in a long time. Then she assured me that the vampires wouldn't come looking for him again. 
+
+So the next morning roles around, and he summons me again. I nearly managed to talk him out of another fee, but he found his note before he found any cash. It's all for the best, anyway, seeing as I already had the dough from his client. I figured I'd tell him about that, one day, but I wasn't planning on making it today. 
+
+I fill him in on a few of the details. I tell him about the fight, and about summoning me. I tell him that there was an obvious conspiracy, what with Minnie being dead and his client being an imposter, and that I'm sure he'll be able to work all the details out for himself once his head clears. At that, he winces. I leave out the first $5 he paid me, and conviently forget to mention that I'd run in to his client. I tell him about the rod in his pocket, and that it should only take me another day or two to find the girl. 
+
+"I'd do it myself" he starts. 
+
+"Frank, my boy, you're in no shape to leave this apartment. I insist that you stay here. I'll track her down, and get you your money. It'll take two days, three tops." 
+
+"Jackson, if I didn't feel so bad, I'd come over there and punch you." 
+
+"There's a reason I gave you a rod, a not a gun, Frank." I said with a grin. "Now you just lay back and let old Jackson Q. Demon take care of the rest. It shouldn't take me more than three days, four at the outside." 
+
+"Jackson, I'm serious. Stop jerking me around. If I can't find Minnie before she skips town, or before the other vampires come after me..." 
+
+"Frank, buddy, It's me Quetzitechnolichigan. Have I ever steered you wrong?" 
+
+"Jackson, if you don't find the girl soon, I'm going to leave you that size forever." Frank said with a vindictive look in his eye. 
+
+"Fine, fine. I heard she was staying in a hotel up the way, I'll go find her, just return me to normal size first, okay?" 
+
+Frank made good, and I left. I swung by Ruby's for a drink. Frank wouldn't like it, but he was in no position to complain. Ruby always makes for good conversation, even if being in physical proximity to her does put my teeth on edge. I stayed for a few drinks, and let Frank sweat for a couple hours. Eventually, I made my way back to his place. 
+
+"Frank, I found her room, but she was gone." I said, with a hint of remorse in my voice. "She left an envelope with your name on it. Inside was $25, and a note that said 'They's coming, be careful'." I handed him the $25, trying to keep a straight face. 
+
+Now, what happened next absolutely warms my little demon heart. Frankie looks me square in the eye, pulls a gun out from under his pillow, and says "I want the rest of the money you little creep." 
+
+I disapeared outa there in a flash, but I left behind another $30. If he ever asks about the last five, I'll tell him the rest was "expenses" 's what he woulda done. I gotta hand it to ol' square jaw, I'm still not sure how he knew I was pulling one over on him._
 
 -----
+
 When Jackson left me that morning, I was wrattled. I haven't seen that much combat in a long time. I couldn't remember a thing after I saw the vampires, and I had this sneaking suscpicion the punk was pulling one over on me. 
 
 I called Ruby, and told her to keep an eye out, and that if Jackson came by she should keep him there as long as she could. Ever the loyal friend, she did just that. I figured Jackson would be gone for at least  two or three hours, so I went and visited Minnie myself. 
