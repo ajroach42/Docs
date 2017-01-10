@@ -86,3 +86,38 @@ I took a swing from my mug, and left it on top of the filing cabinet by the door
 
 ---- 
 
+Ruby's words hit me like a sack of bricks. I was still realing from the fairly powerful psychic barage she threw at me when I mentioned Minnie's name, and then she went and called me stupid. It was more than a guy should haveta take, and I told her as much. It didn't help that she was right. I didn't tell her that, but I didn't really have to. She knew I was being stupid as well as I did. 
+
+"So, Minnie's been dead for four years?" I asked. 
+
+"Well Yeah. She was undead for nearly 100 years before that, and then she was steaked through the heart by a disgruntled hunter on the way home from Sunday mass, four years ago today." Ruby replied with something like a sigh. It wasn't too much like a sigh, mind you. It was more like the screams of all of the souls in hell, but I've come to understand that it served the same purpose as your average human sigh. 
+
+"So who the hell was I talking to?" I asked, knowing I wasn't going to like the answer. 
+
+"From the way you described her, and the half daze you've been walking around in, I'd say you were talking to a succubus with powerful enemies, Frank. Look, you gotta be careful. Even I don't like to deal with Vampires." 
+
+That surprised me. "Surely, you're not afraid of a few bloodsuckers" I asked. 
+
+"Nah, nothin' like that. I just hate the way the talks, is all" 
+
+Good ol' ruby. 
+
+So I left the bar with more questions than I'd had when I went in, but I felt a lot better. The psychic torture Ruby was slinging was enough to help me shake off whatever lingering effects "Minnie" left with me. Well, that, and another bottle. 
+
+I stumbled a few blocks down the road, and found myself standing in front of my building. I was not alone. There was a surprisingly large crowd of tall, thin, men wearing stylish black clothes. I was fairly drunk, and I do not remember exactly what happened next, but based on the evidence I was confronted with the next day, I imagine it went something like this: 
+
+I walked in to the middle of the crowd, and said "Please, good sirs, could each of you punch me in the face as hard as you can?" 
+
+Alternately, it's possible that I walked up to the largest of them and said "All vampires are leaches," before unloading my gun in to him. That would explain why it was empty, and also bent in half. 
+
+Either way, I survived my encounter with the crowd of angry vampires. I was pretty badly beaten, I don't remember anything, and a perfectly good gun was ruined, but I survived.
+
+I took a look at my newfound sobriety, injury, lack of a functional firearm, and complete dearth of knowledge as to the nature of my assailants or my employer, and decided that it was time to do some investigating. So, as you would expect, I fished a piece of chalk out of the nightstand, and quickly scribbled some illegible sigils on the wooden floor of my bedroom. 
+
+The sigils were illegible for two reasons. 1) to say my penmanship leaves something to be desired implies that there is anything desirable about it whatsoever and, 2) the symbols were from an ancient language that no human had been able to read for at least 500 years. Thankfully, the demon hoard doesn't tend to mind a little messy handwriting. I bent over the sigils, lit a candle in the middle, and cracked an egg on my head. 
+
+Sure, it felt ridiculous, but thems the rules. 
+
+
+
+
