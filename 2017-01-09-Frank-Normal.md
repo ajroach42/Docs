@@ -1,6 +1,6 @@
 ## Normal Occult Investigations
 
-### Minnie Harkness 
+### Minnie Harkner
 
 They say the way to a man's heart is through his stomach. I don't know much for men, but if you try to get to a vampire's heart through his stomach... well, that's going to end pretty poorly for you. The way to a vampire's heart is through his chest with a wooden stake, if you catch my meaning. By the time I was through, I'd found the hearts of five or six of them suckers, no stomachs required.  
 
