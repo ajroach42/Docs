@@ -1,21 +1,21 @@
 
 
-# 1 “ TREACHERY OF MARS “ December 30, 1950
+# 1 "TREACHERY OF MARS "December 30, 1950
 Buzz Corry, Commander in Chief of the Space Patrol, is returning to Terra from Earth, accompanied by his new Cadet, Happy, winner of the Corry Scholarship, when he spots what he believes to be a derelict guided missile floating in space. As the Space Patrol battle cruiser closes in to destroy it, the missile heads for it, narrowly missing, then turns and strikes again. The missile is in reality a cosmic bomb controlled by Major Gorla from his fortress on Kars. The Major, with the help of Marta, an assistant to the Secretary General on Terra, plots to conquer the United Planets beginning with the murder of Commander Corry.
 
 # 2 "THE LETHAL LADY" January 6, 1951
 
 Marta attempts the theft of top secret plans and plots the destruction of Commander Corry. She enlists the aid of a Space Patrol officer, Lt. Krasnoff, who carries a grudge against Major Robertson, United Planets Security Chief. Lt. Krasnoff paralyzes Robbie with a ray gun and releases the magnetic force control throwing Buzz and Happy's ship in to a free fall seconds from the ground.
 
-# 3 " INTRIGUE IN THE CABINET" January 13, 1951
+# 3 "INTRIGUE IN THE CABINET" January 13, 1951
 
 A member of the Cabinet of the United Planets, Baron Von Kreitz, is scheming the overthrow of the Secretary General. The Baron instructs Lt. Groat to prevent Commander Corry from delivering damaging information to the Secretary General on Venus. Tonga, assistant to the Security Chief, is partially paralyzed by Lt. Groat while carrying the top secret audiogram to Venus in her space car. She is left in the aft compartment, where she bravely risks a cosmic burn to turn on the ship's magnetizer. The cosmic static trail aids Commander Corry and Cadet Happy in tracking her to the Earth's moon, and the headquarters of Baron Von Kreitz. (Commander Corry's ship is referred to as "Battle Cruiser 100" fastest ship in the universe.)
 
-# 4 " THE AGRA RAY" January 20, 1951
+# 4 "THE AGRA RAY" January 20, 1951
 
 Carol Carlisle, daughter of the Secretary General, is testing her most recent invention at the Science Academy, with the help of her lab assistant. The invention is called the Agra Ray, a ray which speeds up the growth process enabling plants to reach their full growth in a matter of hours. However it is also discovered that when the ray is inverted is capable of turning whole cities into stone. The lab assistant is secretly in the employ of Prince Greegor of Mercury, who desires the Agra Ray. He wants to threaten Terra, Capitol of the United Planets, with ray. Carol is kidnapped, and taken to Mercury by the Lab Assistant.
 
-# 5 " THE IVY OF DEATH'“ January 27, 1951
+# 5 "THE IVY OF DEATH" January 27, 1951
 
 Major Robertson and Tonga have been assigned the duty of taking the Agra Ray to Jupiter to allay the food shortage there. They are met by the sinister Goron, pretending to be Jupiter’s Minister of Agriculture. He takes them to his headquarters at the foot of the crater Cornicus, where he plans to steal the Agra Ray and use it to grow the Ivy of Death , a plant that gives off a suffocating dioxide, to aide him in destroying the United Planets. (Universal Star Time mentioned for the first time.)
 
@@ -35,7 +35,7 @@ Major Robertson, at Space Control on Earth, receives a report from the Chief Ast
 
 Burger, owner of six lead mines on the moon Planos, reports an epidemic caused by a deadly bacteria, spreading through the mines. Tonga joins Commander Corry and Cadet Happy in space with the precious serum needed to combat the disease. Burger and his accomplice, Leckner, wish to frighten everyone away to keep secret the discovery of a rich deposit of Exonium. Cadet Happy catches Leckner in the process of tampering with the atmosphere system of one of the mines. They struggle with Happy and he unknowingly inhales a lethal dose of the concentrated bacteria.
 
-# 10 “TUNNEL OF ESCAPE: TUNNEL OF DEATH” March 3 1951
+# 10 "TUNNEL OF ESCAPE: TUNNEL OF DEATH” March 3 1951
 
 Warden Sovak and his head trustee, Erik, have arranged for the escape of those prisoners who are able to pay. The prisoners escape through a tunnel that runs underneath one of the irrigation canals. After the report of the escape of three prisoners in one month from the escape proof prison reaches Commander Corry. Corry decides to investigate with the help of Major Robertson and Cadet Happy.
 
@@ -75,7 +75,7 @@ Commander Buzz Corry and Cadet Happy are sent on a highly secret and mysterious 
 
 During a routine inspection of the Space Patrol Maintenance Shop, Major Robertson discovers a heavy purchase of surplus battle cruisers by the Pluto Transport Company. Suspicious, he tells the owner of the company that he can no longer buy these ships and immediately "accidents" begin happening in the shop. When Commander Corry and Cadet Happy attempt to test fly the Secretary General's new ship they nearly crash as a result of sabotage.
 
-# 20 " ISOLATION IN SPACE" May 12, 1951
+# 20 "ISOLATION IN SPACE" May 12, 1951
 
 When Commander Corry, Cadet Happy and Carol attempt to apprehend a pair of dangerous criminals smuggling valuable parasonic crystals from the Synthetic Crystal Company. They find themselves in a virtually isolated space relay station orbiting around Terra with only one and a half hours of Oxygen left their only hope is the alertness of the Space Patrol.
 
@@ -91,7 +91,7 @@ Major Robertson is on the planet Neptune. After memorizing and destroying the pl
 
 Commander Buzz Corry and Cadet Happy apprehend two dangerous criminals, the renegade Doctor Phillips, and his confederate, Dixon. While captive aboard the Space Patrol battle Cruiser the doctor slyly injects Happy with a concentrated Narco solution from a concealed Narco injector. The injector subjects the Cadet's will to the doctor's evil control. Answering a distress call in space with Commander Corry, Happy attempts to carry out Dr. Phillips command to attack Buzz, while the doctor and his henchman threaten Carol aboard the ship.
 
-# 24 " THE TREACHEROUS TECHNICIANS" June 9, 1951
+# 24 "THE TREACHEROUS TECHNICIANS" June 9, 1951
 
 In the process of an experiment in the Terra Research Lab, Tonga orders two grams of the precious Tritonium from the Space Patrol Research Laboratory on Earth. Commander Corry and Cadet Happy, on a training flight near Earth, agree to transport the 2,000,000 credits worth of Tritonium to Terra. However the lab technicians on Earth, Lisa and Chaney, plot to steal the Tritonium. They follow the Commander's ship and blast it with a missile, knocking out the ships power and threaten to fire another missile unless Buzz and Happy abandon the ship . Lisa Howard as Lisa. Pierce Lyden as Chaney.
 
@@ -235,7 +235,7 @@ While Tonga is working in a Security Department Ordnance Lab located on a tiny a
 
 While on a pleasure trip from Terra to Earth, Commander Buzz Corry and the Space Patrol crew are caught in a storm of meteorites brought about by the appearance of Trackenger's comet. Disabled by a meteorite lodged in the hull of their ship, they have no power to alert Space Control on Earth of their condition. Unless the meteorite can be dislodged it will burst into flame and set the Terra IV on fire when it enters Earth's atmosphere. Avoiding that, the Space Patrollers will still crash into Earth unless Space Control is sharp enough to note their speed and use the magnetic force control to land the crippled ship.
 
-# 60 "PLANETOID PLOT " February 16, 1952
+# 60 "PLANETOID PLOT "February 16, 1952
 
 In a plot to rob payroll ships flying within range of their planetoid, two interplanetary thieves blind Commander Corry and Cadet Happy with a photon bomb as they travel from Terra to Jupiter carrying a 75,000 credits payroll. Their battle cruiser is then hit with a magnetic disrupter, which cuts all power including communications with Major Robertson. The ship is lands by magnetic force control at the villain's hideout, where Buzz and Happy are imprisoned and then directed to walk into a deep chasm.
 
@@ -729,7 +729,7 @@ Dr. Lambert: I. Stanford Jolley. Carnacan: Nestor Paiva. This is the initial epi
 
 Commander Corry and Cadet Happy, in their efforts to rescue Dr. Lambert, find themselves trapped once again by the ruthless men posing as the real Carnacans. Buzz and Happy find the hiding place of the real Carnacan treasure in the Martian Totem Heads.
 
-# 181 "TRAPPED IN A PYRAMIDS " June 11, 1954
+# 181 "TRAPPED IN A PYRAMIDS "June 11, 1954
 
 Buzz and Happy are trapped with the bogus Carnacans in a pyramid after escaping the disintegration of the ancient underground Carnacan city on Mars. Fighting for their lives against insurmountable odds, Commander Corry and Cadet Happy effect a last minute escape from the pyramid, capture their adversaries and rescue their friend, Dr. Lambert.
 
@@ -807,7 +807,7 @@ Prince Baccarratti, false pretender to the throne of Venus, once again returns t
 
 Having been shanghaied by Prince Baccarratti to 17th Century America, Buzz Corry and Cadet Happy become candidates for burning at the stake as suspected sorcerers. Baccarratti also falls suspect by the superstitious colony, but is rescued by the Space Patrollers.
 
-# 200 "THE DEFEAT OF BACCARRATTI " December 18 1954
+# 200 "THE DEFEAT OF BACCARRATTI "December 18 1954
 
 After recapturing Prince Baccarratti and his pal, Barti, Commander Corry and Cadet Happy have one more task to complete before returning to the 30th Century. Goodwife Martin, a woman who has helped Buzz and Happy, has been accused of witchcraft by her own husband and son. Somehow the Space Patrolmen must save the woman from death before they are free to return through time to their own era. The two comrades take a drastic step to clear Goodwife Martin, only to find that through an oversight they may spend the rest of their lives stranded in the 17th Century.
 
