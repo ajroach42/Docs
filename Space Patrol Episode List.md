@@ -1,8 +1,13 @@
 # Space Patrol Episode List 
 
-## Half Hour TV Episodes 
+## Half Hour (weekly) TV Episodes 
 
-###  1 "TREACHERY OF MARS "December 30, 1950
+The half hour weekly episodes were broadcast on ABC and syndicated nationally. They were, at times, simulcast on the east and west coast, broadcast live on the east coast and Kinescopes for the west coast, or seen as Kinescopes in both markets. In every case, they were done live, in one take, in one of the largest sound stages to have ever been constructed. 
+
+Not all of the broadcast episodes survived, and of the ones that did survive, not all are currently in circulation. A later version of this document will attempt to correlate this list with the available DVDs and digital sources, and highlighting which episodes are currently lost. 
+
+
+###  1 "TREACHERY OF MARS" December 30, 1950
 
 Buzz Corry, Commander in Chief of the Space Patrol, is returning to Terra from Earth, accompanied by his new Cadet, Happy, winner of the Corry Scholarship, when he spots what he believes to be a derelict guided missile floating in space. As the Space Patrol battle cruiser closes in to destroy it, the missile heads for it, narrowly missing, then turns and strikes again. The missile is in reality a cosmic bomb controlled by Major Gorla from his fortress on Kars. The Major, with the help of Marta, an assistant to the Secretary General on Terra, plots to conquer the United Planets beginning with the murder of Commander Corry.
 
@@ -222,7 +227,7 @@ A threat made by a prisoner being dematerialized into suspended animation agains
 
 A shipment of eight crates of a brand new weapon, a cosmic smoke gun , arrives at Space Patrol Headquarters minus the guns. The gun puts its victims to sleep instantly. Discovering this, Major Robertson is shot by the delivery man, who escapes with the guns to his employer on Venus. When Robbie and Tonga attempt to arrest the two culprits, they are shot and placed unconscious aboard their ship. The ship is on a collision course with the moon Deimos and Commander Corry has only a few minutes to board the ship in flight and change its course. (This adventure features the Cosmic Smoke Gun premium.)
 
-###  56"LOST IN THE SNOW CAP REGION OF MARS" January 19, 1952
+###  56 "LOST IN THE SNOW CAP REGION OF MARS" January 19, 1952
 
 Carol follows a wanted criminal from the Mercury Space Port to Mars, where he and his accomplice have a hideout in the snow cap region. Carol is captured and Buzz and Happy are captured when they arrive to rescue her. Carol, under the effects of the cosmic smoke gun, wanders out of an abandoned cave and is lost in the snow covered terrain. Buzz And Happy must escape through an active volcano in the cave and find Carol before she freezes.
 
@@ -856,7 +861,173 @@ The mysterious disappearance of Happy and Carol halts the Space Patrollers from 
 
 ## Radio Episodes 
 
+The radio show has a pretty complicated history, reliable information on it is hard to come by and this is compounded by the fact that many of the earliest episodes of the show were not archived in any way. What follows is the broadcast history of the radio show as best as I have been able to identify it. 
+
+
+**Series 1**
+The first Space Patrol Radio Series aired from August 1st 1950 to January 8th 1951. There were two episodes per week over this time period. That's 23 weeks, or 46 episodes. The radio show then went off the air for seven months, returning as a weekly show on August 15th 1951. 
+
+No episodes from this period survive, but we can verify the dates in various magazines and promotional materials from the era. 
+
+\[It should be noted that Ed Kimmer, the actor who played Buzz Corry, believed firmly that no radio broadcasts were made prior to January of 1951, but this is disputed by available evidence and reports from other surviving cast and crew.\]
+
+
+**Series 2**
+Series 2 started broadcasting on August 15th 1951, and broadcast weekly. The episodes from August of 51 through to October of 52 are lost. We are able to derrive proof of their existence from trade magazines and published schedules, but no tape or transcription disks survive until October of 1952. That's 59 weeks, and 59 more missing episodes totalling 105 missing. 
+
+The first transcription disc of Space Patrol is dated October 4th 1952, and the earliest available recorded episode on that disc is actually from October 25th. Most of the 125 episodes broadcast from October 25th 1952 to March 19th 1955 are available. 
+
+Some episodes, such as Episode "83" (actually the 188th episode broadcast) originally broadcast on 05/01/54 are missing their official title. They are missing their titles because they were dubbed from Armed Forces Radio Service Broadcasts, which often lack titles, credits, and commercials. The new titles presented are by Bill Drish, compiled for the book Space Patrol: Missions of Darring in the name of Early Television by Jean Noel Bassior. 
+
+Most of the episodes that are not marked LOST are available and in circulation. Of the 129 recorded episodes, 114 are [available from the old time radio researchers group](https://archive.org/details/OTRR_Certifies_Space_Patrol). 
+
+### Episode 001 - LOST - Title Unknown 
+### Episode 002 - LOST - Title Unknown
+### Episode 003 - LOST - Title Unknown
+### Episode 004 - The Hole in Empty Space
+10/25/1952
+### Episode 005 - LOST - The Glow Worm Project
+### Episode 006 - The City of the Sun
+### Episode 007 - The Queen of Space
+### Episode 008 - The Giant Bubble
+### Episode 009 - The Electronic Burglar
+### Episode 010 - The Space Shark
+### Episode 011 - The Search for Asteroid X
+### Episode 012 - The Lady from Venus
+### Episode 013 - The Last Voyage of the Lonesome Lena
+### Episode 014 - The Brain Bank and the Space Binoculars
+### Episode 015 - The Sleepwalker
+### Episode 016 - LOST - The Deserted Planet
+### Episode 017 - The Scavenger of Space
+### Episode 018 - The Top Secret D-Ray
+### Episode 019 - Crash Landing
+### Episode 020 - The Mysterious Meteor
+### Episode 021 - The Moon Beetles
+### Episode 022 - The Strange Gift of the New Star
+### Episode 023 - The Seed Crystals of Zaldebran
+### Episode 024 - The Magic Space Pictures
+### Episode 025 - The Caverns of Venus
+### Episode 026 - The Forgotten City
+### Episode 027 - The Vanishing Lake
+### Episode 028 - LOST - Title Unknown
+### Episode 029 - LOST - Title Unknown
+### Episode 030 - The Prisoners of Pluto
+### Episode 031 - The Venus Space Factory
+### Episode 032 - The Cosmic Ray Detector
+### Episode 033 - The Secret of Sub-Level Seven
+### Episode 034 - Treachery in Outer Space
+### Episode 035 - The Immortal Brain
+### Episode 036 - LOST - Mystery of the Martian Fossils
+### Episode 037 - LOST - Title Unknown
+### Episode 038 - The Indestructible Germ
+### Episode 039 - The Treasure of Planetoid Sixty
+### Episode 040 - Winged Spies of Venus
+### Episode 041 - LOST - Title Unknown
+### Episode 042 - LOST - Title Unknown
+### Episode 043 - LOST - Title Unknown
+### Episode 044 - The Sleeping Demon of Saturn
+### Episode 045 - Trouble Aboard the Supernova
+### Episode 046 - Peril over Jupiter
+### Episode 047 - The Menace of Planet X
+### Episode 048 - The Trap on Planet X
+### Episode 049 - The Valley of Dread
+### Episode 050 - Escape from Planet X
+### Episode 051 - The Spies from Planet X
+### Episode 052 - Target: Jupiter
+### Episode 053 - Return to Planet X
+### Episode 054 - On the Ice Cap of Planet X
+### Episode 055 - Rescue from Planet X
+### Episode 056 - The Secret of the Dargo Ruins
+### Episode 057 - The Iron Eaters of Planet X
+### Episode 058 - Cyclone in Outer Space
+### Episode 059 - Under the Sea of Planet X
+### Episode 050 - The Sea Monster of Planet X
+### Episode 061 - The Revolt of the Space Rats
+### Episode 062 - Baccarratti's Secret Weapon
+### Episode 063 - The Lost Condor
+### Episode 064 - The Venus Thulanium Mystery
+### Episode 065 - The Lost Dimension
+### Episode 066 - The Wistful Wizard of Neptune's Moon
+### Episode 067 - In the Claw of Venus
+### Episode 068 - The Exiles from Denebola
+### Episode 069 - The Martian Masquerade
+### Episode 070 - The Treasure of Mount Rolcab
+### Episode 071 - The Strange Case of Pilot Prentiss
+### Episode 072 - The Revenge of Dr Yeager
+### Episode 073 - Visitor from Galaxy Nine
+### Episode 074 - The Serpent of Saturn
+### Episode 075 - Gems of Jupiter
+### Episode 076 - Test for Survival
+### Episode 077 - The Secret of Dr Borodek
+### Episode 078 - The Zero Ray
+### Episode 079 - The Super Brain of Balmer Kestro
+### Episode 080 - The Test of the XK-3
+### Episode 081 - The Image of Evil
+### Episode 082 - Phantom Visitor
+### Episode 083 - Unknown - The Wreck of the Black Star (Original Title Unknown, this is a description from the episode contents) 
+### Episode 084 - Captain Hackett's Planetoid
+### Episode 085 - Capture of the Red Falcon
+### Episode 086 - The Strange Voyager
+### Episode 087 - The Red Demon of Venus
+### Episode 088 - The Mystery of the Masked Martians
+### Episode 089 - The Tattooed Atom
+### Episode 090 - The Cavern of Fear
+### Episode 091 - Race against Time
+### Episode 092 - The Robot of Bor Kenna
+### Episode 093 - Trial by Terror
+### Episode 094 - LOST - Menace under Mercury
+### Episode 095 - Unknown - Supersensitive Stardrive (Original Title Unknown, this is a description from the episode contents) 
+### Episode 096 - Unknown - The Galaxy Trade Association (Original Title Unknown, this is a description from the episode contents) 
+### Episode 097 - Unknown - Journey to Troganok (Original Title Unknown, this is a description from the episode contents) 
+### Episode 098 - The Counterfeit Atom
+### Episode 099 - Formula for Crime
+### Episode 100 - Shipment to Tyranna
+### Episode 101 - Unknown - Locating Tyranna (Original Title Unknown, this is a description from the episode contents) 
+### Episode 102 - Design for Disaster
+### Episode 103 - Prisoners of Tyranna
+### Episode 104 - Invasion from Tyranna
+### Episode 105 - The Voice from the Future
+### Episode 106 - Message from Arctrona
+### Episode 107 - Unknown - Visitor from Arctrona (Original Title Unknown, this is a description from the episode contents) 
+### Episode 108 - Unknown - The Forbidden Planet (Original Title Unknown, this is a description from the episode contents) 
+### Episode 109 - The Realm of the Robots
+### Episode 110 - The Watchman of Wormak
+### Episode 111 - The Frightened Robots
+### Episode 112 - Planet in Peril
+### Episode 113 - LOST - unknown
+### Episode 114 - The Invisible Enemy
+### Episode 115 - The City of Hidden Doom
+### Episode 116 - Escape from Neptune
+### Episode 117 - The Lost Galaxy
+### Episode 118 - Ambush in Space
+### Episode 119 - Prison Planet
+### Episode 120 - The Crown of Dargeeda
+### Episode 121 - The Shadow of Shardu
+### Episode 122 - Planet of Discord
+### Episode 123 - The Conquest of Dargeeda
+### Episode 124 - The Hermit of Pluto
+### Episode 125 - The Time Pirates
+### Episode 126 - Voyage to the Future
+### Episode 127 - The Monster from the Past
+### Episode 128 - The Weed of Despair
+### Episode 129 - The Fugitive from Telarma 
+03-19-55 - last broadcast episode. Actually number 234. Number on the transcription disks as 188 for reasons which are unlikely to ever be made clear. 
+
+This is the last episode of the radio show to be recorded. It was recorded and broadcast several weeks after the last TV show episode was released. 
+
 ## 15 minute (daily) TV Episodes 
+
+The fifteen minute episodes aired daily starting on March 9, 1950 and continuing until sometime in June of 1953 (actually ending with a never resolved cliffhanger.) 
+
+It appears that the daily show ended as a result of the death of the show's producer Mike Mosser, and a dispute over wages. (Let me be clear, were dozens of wage disputes over the course of this show. Mike Mosser was overpromisng and under paying from the start. Most disputes with Mosser resulted in good outcomes for the actors. Most disputes after Mosser's passing resulted in things (including, ultimately, the show as a whole) getting cancelled. 
+
+To the best of my knowledge, there are no esistant lists of the broadcast daily episodes, but a rough estimate puts the number produced at around 900. 
+
+Of those, a very small number (if any) survive. 
+
+I'll fill in this space with a list of the 15 minute episodes that I am able to find as I am able to find them. 
+
+
 
 # Tom Corbett Space Cadet Episode List 
 
