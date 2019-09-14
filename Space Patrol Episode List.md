@@ -448,23 +448,23 @@ The initial inspection of a proposed site of a new Space Patrol Way Station in M
 
 A space ship of the battle-cruiser class carrying a payroll of 30,000 Credits, disappears en route to the moon Deimos. Suddenly, as through from out of nowhere, the pilot of the missing battle cruiser shows up in the office of Space Patrol. The missing pilot astounds Buzz, Happy, and Robbie with a tale of adventure in the wild, vast regions of space.
 
-#113 "OPERATION RESCUE" February 21, 1953
+# 113 "OPERATION RESCUE" February 21, 1953
 
 One of the many duties of the Space Patrol is to keep the space lanes safe for travel. Commander Corry and Cadet Happy fly into danger to save a space ship caught in the Asteroid Belt.
 
-#114 "SURVIVAL IN THE ICE DESERT" February 28, 1953
+# 114 "SURVIVAL IN THE ICE DESERT" February 28, 1953
 
 Major Robertson has been kidnapped by two space criminals. While Searching for Robbie, Commander Corry and Cadet Happy walk into a trap that will leave them stranded miles from civilization on the dreaded Ice Desert of Mars. Their own space ship stolen, Buzz and Happy investigate the charred wreckage of Major Robertson's ship in an attempt to find a means of escape from the ice-caps surrounding them. Fighting the bitter cold, Buzz and happy realize that they must take immediate action before this region of ice becomes their tomb.
 
-#115 "SPACE FATIGUE" March 7, 1953
+# 115 "SPACE FATIGUE" March 7, 1953
 
 A conspiracy to have Buzz Corry removed from his office as Commander-in-Chief of the Space Patrol has been carefully plotted. Buzz is baffled by his inability to perform routine tests and doctors at the Medical Science Center inform him that he must be grounded. Buzz signs papers that will relieve him of his post due to his "illness". Meanwhile, Major Robertson and Cadet Happy conduct an investigation of their own.
 
-#116 "THREAT TO TERRA" March 14, 1953
+# 116 "THREAT TO TERRA" March 14, 1953
 
 Somewhere in the City of Terra a raving maniac has planted a bomb, threatening to blow Space Patrol out of existence. Buzz Corry, Cadet Happy, and Major Robertson find themselves in a race against time when the fiendish plot to destroy the man-made planet is uncovered through the use of the Brainograph.
 
-#117 "JAIL BREAK" March 21, 1953
+# 117 "JAIL BREAK" March 21, 1953
 
 Cadet Happy is planted as a prisoner in the new escape-proof detention quarters which has been the scene of several mysterious jail breaks. Hap is included in plans for the next "break" when his identity is discovered by a prisoner. Hap is surprised by the prisoner while trying to get word of the attempt to Commander Corry. Happy is taken by gun point to the uninhabitable satellite, Titan, where he tries to stay alive long enough to be rescued by his Commander.
 
@@ -472,15 +472,15 @@ Cadet Happy is planted as a prisoner in the new escape-proof detention quarters 
 
 Commander Buzz Corry employs the use of mental telepathy when his powers of thought are challenged by a stranger from another star system. Vexed by continuous visions of Cadet Happy in danger, Corry issues a bulletin to all members of the United Planets to be on the lookout for a stranger from another star system. Buzz's premonition of danger is confirmed when Cadet Happy disappears and Major Robertson sends an alert that the Space Patrol Headquarters is on fire.
 
-#119 "THE VITAL FACTOR" April 4, 1953
+# 119 "THE VITAL FACTOR" April 4, 1953
 
 Carol has fallen victim to a dreaded space disease and to expedite prompt care and treatment Buzz Corry attempts to contact a unit Space Patrol doctor. The Doctor has been kidnapped by a dangerous criminal and Time is a vital factor. Buzz must apprehend the criminal and find the Doctor who can save Carol's life.
 
-#120 "SPACE MAIL ROBBERY" April 11, 1953
+# 120 "SPACE MAIL ROBBERY" April 11, 1953
 
 A space ship carrying confidential microfilm is looted en route to the planet Mars.
 
-#121 "THE SPACE WANDERER" April 18, 1953
+# 121 "THE SPACE WANDERER" April 18, 1953
 
 A strange new planet is attracted to our solar system. An Earth scientist and his daughter set out to investigate the newly arrived visitor fearing that it may disappear just as suddenly as it had appeared. What they do not know is that the strange planet is largely composed of an atmosphere that decomposes metals in a matter of minutes.
 
@@ -488,27 +488,27 @@ A strange new planet is attracted to our solar system. An Earth scientist and hi
 
 There appears to be conclusive evidence that Commander Corry is secretly involved in a plot to undermine the activities of the Security Council. Infuriated by the accusation, Corry breaks free from the security guards who are escorting him to the detention quarters. Cadet Happy and Major Robertson are assigned the duty of capturing Buzz and returning him to prison.
 
-#123 "ELECTRONIC SPACE STORM" May 2, 1953
+# 123 "ELECTRONIC SPACE STORM" May 2, 1953
 
 A space storm of contraterrence, a complex composite of inside-out matter, is headed for our solar system. Due to its complex make-up of the contraterence, it is capable of destroying the entire solar system. In an attempt to divert the course of the storm, Buzz Corry and Cadet Happy undertake the dangerous assignment of plotting the progress of the storm and analyzing its characteristics.
 
-#124 "THE DEADLY GLACIER" May 9, 1953
+# 124 "THE DEADLY GLACIER" May 9, 1953
 
 An oversize glacier on earth is under investigation and further accumulation of ice on the huge glacier may cause the Earth's axis to shift, The glacier would create ferocious storms, floods and earthquakes. Buzz Corry has ordered cosmic bombs to blast the glacier so that it will no longer present any danger to the planet. However, Cadet Happy is conducting his own investigation right on top the glacier that is scheduled for disintegration.
 
-#125 "THE MUTATION BOMB" May 16, 1953
+# 125 "THE MUTATION BOMB" May 16, 1953
 
 A hidden treasure and greed lead to the discovery of one of the most diabolically destructive weapons ever conceived by mankind. The weapon threatens the lives of the inhabitants of the planet Mars.
 
-#126 "PHANTOM SPACE SHIP" May 23, 1953
+# 126 "PHANTOM SPACE SHIP" May 23, 1953
 
 Cadet Happy mysteriously disappears when he is dispatched to investigate a derelict space ship. The phantom ship, which appears to be floating aimlessly through an open space lane, poses a threat of collision with other ships in the lane.
 
-#127 "THE GREEN PLAGUE" May 30, 1953
+# 127 "THE GREEN PLAGUE" May 30, 1953
 
 Inhabitants of Mars are thrown into a state of panic when the "Green Plague" strikes the City of Canali and threatens the entire planet with famine. Because the origin of the plague is unknown it is necessary to quarantine the city and allow no one to leave or enter. Buzz Corry and the Space Patrol are assigned the task of abating the panic and averting disaster.
 
-#128 "THE FRAUD OF TITAN" June 6, 1953
+# 128 "THE FRAUD OF TITAN" June 6, 1953
 
 Todd Station is a privately owned space port located on the sixth moon of Saturn. The Station becomes the center of action and intrigue when Stanton, an appraisal engineer, attempts to swindle the elderly Todds, owners of the station, out of their property. Commander Corry, Cadet Happy and Major Robertson come to the rescue.
 
@@ -516,15 +516,15 @@ STANTON: Marvin Miller. JIM TODD: I. Stanford Jolley. AUNT SYBIL: Edith Evanson.
 
 Tonga and Carol - Inspection
 
-#129 "THE MAN WHO STOLE A CITY" June 13, 1953
+# 129 "THE MAN WHO STOLE A CITY" June 13, 1953
 
 Houses, space ships and civic buildings mysteriously disappear. Baffled by the fantastic occurrences, Commander Corry summons the assistance of one of the leading scientists of the United Planets, only to discover that he too has disappeared
 
-#130 "GIGANTIC SPACE KNIFE" June 20, 1953
+# 130 "GIGANTIC SPACE KNIFE" June 20, 1953
 
 A well-traveled space lane becomes the scene for a series of the most daring interplanetary hijackings ever perpetrated against the United Planets. Buzz Corry and the Space Patrol gang prepare a trap which will catch the bandits in action. The plan goes awry when the space freighter on which Major Robertson has been planted is attacked and neatly cut in two. The portion of the ship holding valuable mineral deposits is drawn by magnetism to an unknown destination but the cockpit in which Robbie is seated is left floating aimlessly in space.
 
-#131 "SPACE PATROL MICROSCOPE" June 27, 1953
+# 131 "SPACE PATROL MICROSCOPE" June 27, 1953
 
 Buzz Corry and Cadet Haps narrowly escape injury when a flying missile scores a direct hit on the Terra V. Seriously crippled, the battlecruiser limps through space. Presuming that Buzz and Happy have met their fate, the bandit space ship feel free to begin a reign of terror throughout the United Planets.
 
@@ -544,132 +544,132 @@ The Governor of Mars is convinced that government officials are selling importan
 
 Three subverts force entrance into the Capitol of the United Planets and at gun point threaten Carol's life unless the Secretary General turns over secret files to them. Once gaining access to the files the hooded agents could immediately place the United Planets under dictatorial powers and subvert the people of the solar system to slavery. So cleverly devised is the plot that Commander Buzz Corry cannot make a move without risking the lives of the entire Capitol representative body.
 
-#136 "CRASH LANDING" August 1, 1953
+# 136 "CRASH LANDING" August 1, 1953
 
 A test flight of an atomic-powered space ship has disastrous results when Buzz is forced to make a crash landing in the middle of a desert sandstorm. Unknown to Buzz and Happy, an eight-year-old stowaway faces death by atomic radiation.
 
-#137 '"THE BRAIN MACHINE" August 8, 1953
+# 137 '"THE BRAIN MACHINE" August 8, 1953
 
 Buzz Corry and company tangle with a mad scientist with a fiendish scheme, an uncanny brain machine and three men who are strapped to an operating table.
 
-#138 "A DANGEROUS SMOKE CLOUD" August 15, 1953
+# 138 "A DANGEROUS SMOKE CLOUD" August 15, 1953
 
 A super intelligence life form with the appearance of a smoke cloud invades the 30th Century and threatens to capture the minds of its civilization. With Cadet Happy and Major Robertson under the spell of the super force, Commander Corry must combat the menace to save the people of the United Planets.
 
-#139 "THE BLACK FALCON'S RETURN" August 22, 1953
+# 139 "THE BLACK FALCON'S RETURN" August 22, 1953
 
 The cunning and ruthless Prince Baccarratti reaches out from the Falcon's lair to spread death and destruction. Possessed with a burning desire to rule the United Planets, Baccarratti devises a plan which will place the Falcon's throne at the head of every planet in the system.
 
-#140 "THE MYSTERY OF PLANET X" August 29, 1953
+# 140 "THE MYSTERY OF PLANET X" August 29, 1953
 
 The mysterious appearance of a new planet, estimated to be five-thousand times the size of Earth, plunges Buzz Corry and his crew into one of the most startling adventures in the history of Space Patrol. Captured by the Earth's sun, the gigantic planet moves ominously into orbit on the outer edge of the solar system.
 
-#141 "THE TRAP OF PLANET X" September 5, 1953
+# 141 "THE TRAP OF PLANET X" September 5, 1953
 
 Major Robertson and Tonga face a horde of dinosaurs when they are compelled to land their damaged space ship on the ominous Planet X. Concealed beneath the planet's shroud of swirling mist is a dense, impenetrable jungle, which provides a natural fortress for the villainous Baccarratti.
 
-#142 "THE PRIMITIVE MEN OF PLANET X" September 12, 1953
+# 142 "THE PRIMITIVE MEN OF PLANET X" September 12, 1953
 
 Buzz Corry is lured into a primitive world from which there may be no escape. Trapped in a gigantic cavern on the ominous Planet X, Buzz is safe from the prehistoric dinosaurs which roam the face of the planet, but he is held at the mercy of a tribe of primitive men.
 
-#143 "THE HATE MACHINE OF PLANET X" September 19, 1953
+# 143 "THE HATE MACHINE OF PLANET X" September 19, 1953
 
 Prince Baccarratti trains another of his diabolical mechanical creations on Terra to create bitterness, resentment, and dissension among Space Patrol and the people of the United Planets.
 
-#144 "BLACK FALCON'S ESCAPE FROM PLANET X" September 26, 1953
+# 144 "BLACK FALCON'S ESCAPE FROM PLANET X" September 26, 1953
 
 Commander Corry dangles helplessly at the end of a rope over a vapor pit. Major Robertson has been caught in the cunning grip of the wolf plants of Planet X. Prince Baccarratti lears ominously, certain of his eventual triumph over the Space Patrol and the United Planets.
 
-#145 "RESONANCE IMPELLER" October 3, 1953
+# 145 "RESONANCE IMPELLER" October 3, 1953
 
 Prince Baccarratti shocks the people of Terra with the news that Buzz Corry, Cadet Happy and Major Robertson have been strangled by man-eating wolf plants on Planet X. With the deaths of Corry and his crew it becomes possible for the ruthless Baccarratti to assume supreme rulership of the United Planets. As evidence of his powers, Baccarratti beams a Resonance Impeller Ray on Terra. The man-made Capitol quakes under the ray and a terrified plea for mercy is sent to Planet X.
 
-A surprise for Tonga and Cadet Happy#146 "THE ICE DEMON OF PLANET X" October 10, 1953
+A surprise for Tonga and Cadet Happy# 146 "THE ICE DEMON OF PLANET X" October 10, 1953
 
 Having survived strangulation by the treacherous wolf plants, Buzz and Happy find themselves in an equally perilous situation when the cunning Baccarratti lures the space heroes to the nesting grounds of the Ice Demon of Planet X.
 
-#147 "THE SLAVES OF PLANET X" October 17, 1953
+# 147 "THE SLAVES OF PLANET X" October 17, 1953
 
 Trapped in a mine beneath the surface of the Black Falcon's stronghold, Buzz and Happy learn the hideous secret behind their imprisonment. A narrow shaft in the side of the rock turns out to be the entrance into a valuable mineral ore mine. Once inside the tunnel, Buzz and Happy make the startling discovery that the ore is being mined by two captured scientists and a crew of tortured dwarfs.
 
-#148 "THE GIANT OF PLANET X" October 24, 1953
+# 148 "THE GIANT OF PLANET X" October 24, 1953
 
 Frantically trying to escape the clutches of Buzz and Happy, Prince Baccarratti spares the lives of the space heroes, but reduces them to the size of dwarfs with the use of the diabolical Diminisher Machine.
 
-#149 "THE IRON EATERS OF PLANET X" October 31, 1953
+# 149 "THE IRON EATERS OF PLANET X" October 31, 1953
 
 Buzz and Happy faces the peril of having their ship destroyed by a gigantic metal-eating worm, while Tonga is taken to the Valley of the Dinosaurs and left their to die.
 
-#150 "THE FALCON'S WEB OF PLANET X" November 7, 1953
+# 150 "THE FALCON'S WEB OF PLANET X" November 7, 1953
 
 Prince Baccarratti lays yet another devilish trap to destroy the Space Patrol. This time he devises a scheme that sends Buzz and Happy zooming headlong into a force barrier.
 
-#151 "CASTLE'S DESTRUCTION ON PLANET X" November 14, 1953
+# 151 "CASTLE'S DESTRUCTION ON PLANET X" November 14, 1953
 
 Prince Baccarratti is forced to evacuate his castle on Planet X, putting into effect Plan Z-1. Activating a prearranged time mechanism designed to blow up the castle, the Black Falcon flees his stronghold through an escape tube in a magnetic car.
 
-#152 "VALLEY OF ILLUSION" November 21, 1953
+# 152 "VALLEY OF ILLUSION" November 21, 1953
 
 Prince Baccarratti flees from his castle to the Valley of Illusion, where nothing is what it seems to be. Buzz and Happy follow and find themselves in a surrealistic land fighting flesh less images projected into the Valley of Illusion.
 
-#153 "DOOM OF PLANET X" November 28, 1953
+# 153 "DOOM OF PLANET X" November 28, 1953
 
 After escaping a fourth dimension trap, Buzz, Major Robertson, and Happy destroy the Time Warp Machine and conquer the villainous Black Falcon, Prince Baccarratti.
 
-#154 "ALIEN AND THE ROBOT" December 5, 1953
+# 154 "ALIEN AND THE ROBOT" December 5, 1953
 
 Investigating the mysterious theft of electronics equipment from laboratories on Mars, Buzz Corry, Major Robertson and Cadet Happy meet Letha, a Gorgeous exile from outer space. She is accompanied by a brutish robot and uses a fiendish retardo-ray machine. Letha has already paralyzed Dr. Cameron Stanton with the retardo-ray and deals with Robbie and Happy in the same manner. She hopes of using the ray on them will be examples to others in a "payoff-or-else" shakedown scheme. Commander Corry meanwhile has an ultimatum: join her in the racket or become the retardo-ray's fourth victim.
 
-#155 "THE ROBOT'S ESCAPE" December 12, 1953
+# 155 "THE ROBOT'S ESCAPE" December 12, 1953
 
 Commander Corry continues his fight to protect the United Planets from falling under the clutches of Letha, an alien woman from deep in the Outer Galaxy. Letha, with her human-like robot and a weapon called the Retardo-ray, seeks to destroy the security of the solar system.
 
-#156 "THE CITY OF LIVING STATUES" December 19, 1953
+# 156 "THE CITY OF LIVING STATUES" December 19, 1953
 
 Letha, a tall blonde alien from deep in the Outer Galaxy and her human-appearing Robot Five, escape from Mars Space Headquarters with the Retardo-ray and turn Canali into the City of the Living Statues.
 
-#157 "MYSTERY OF THE MISSING ASTEROIDS" December 26, 1953
+# 157 "MYSTERY OF THE MISSING ASTEROIDS" December 26, 1953
 
 Two unscrupulous miners pilfer an asteroid on which Prospector Haskins has staked a claim. Commander Corry and Cadet Happy solve the mystery and capture the culprits.
 
-#158 "THE PHANTOM SPACE PIRATE" January 2, 1954
+# 158 "THE PHANTOM SPACE PIRATE" January 2, 1954
 Captain Dagger boards a ship of the planetoid payroll service fleet, climaxing a series of lootings which Commander Corry has been trying to solve. Captain Dagger gives Buzz, Happy, Robbie and the payroll ship pilot a rough time and an unpleasant surprise.
 
-#159 "THE SPACE VAULT ROBBERY" January 9, 1954
+# 159 "THE SPACE VAULT ROBBERY" January 9, 1954
 
 A public furor is created due to the inability of Buzz Corry and the Space Patrol to stop Captain Dagger's looting of ships and banks. An investigation is requested by the Security Council when Captain Dagger almost steals the entire treasury reserve from the space vault. But Buzz and Cadet Happy are there to turn the tables on the Wiley Captain.
 
-#160 "THE PIRATE'S ESCAPE" January 16, 1954
+# 160 "THE PIRATE'S ESCAPE" January 16, 1954
 
 Captain Dagger and his henchman, Dr. Maddox, lead Buzz, Happy, and Robbie an exciting chase but they eventually track the pirates to their hideout. They not only recapture Captain Daggar and his men but also reclaim their stolen "treasure".
 
-#161 "THE AMAZONS OF CYDONIA" January 23, 1954
+# 161 "THE AMAZONS OF CYDONIA" January 23, 1954
 
 Dr. Oliver Tuttle and his assistant, Dr. Johnson, have a laboratory in the Cydonia Jungle on Venus in order to experiment on plant life as the basis for a synthetic food. When their daily report fails to reach Space Patrol, Buzz, Happy and Robbie investigate. Arriving at Cydonia they find it ruled by a tribe of Amazon women who make slaves of all strong men and destroy the weak ones. Buzz manages to rescue Dr. Tuttle and send him back to Terra with Happy and Robbie but is trapped by the Amazons.
 
-#162 "THE MONSOON TRAP ON CYDONIA" January 30, 1954
+# 162 "THE MONSOON TRAP ON CYDONIA" January 30, 1954
 
 After helping Dr. Tuttle escape the Amazons of Cydonia, Buzz and Happy continue their search for the doctors assistant. Dr. Johnson, meantime, is working in league with the Amazons, and sets a trap for Buzz who is almost killed by the death wind monsoon. The Commander escapes with the aid of Cadet Happy, but the pair are captured and held hostages by the Amazons.
 
-#163 "THE MEN-SLAVES OF CYDONIA" February 6, 1954
+# 163 "THE MEN-SLAVES OF CYDONIA" February 6, 1954
 
 Commander Corry, Cadet Happy, and Laboratory Assistant Johnson are at the mercy of Queen Riva. She is attempting to make them menslaves of Cydonia. Riva forces Buzz to become one of her slaves in exchange for saving the life of Happy, who has been seriously wounded. Johnson, looking out for his own interests, spirits Happy away in an attempt to recover a stolen micro tape. The lab assistant is Riva's slave master but he betrays her and meets an untimely end at the hands of the Amazon Queen. Major Robertson arrives in time to rescue Buzz and Happy.
 
-#164 "THE DEADLY RADIATION CHAMBER" February 13, 1954
+# 164 "THE DEADLY RADIATION CHAMBER" February 13, 1954
 
 Commander Buzz Corry and Cadet Happy are called upon to investigate the shutdown of three plants that produce 75% of the United Planets fissionable material. Buzz and Happy are thwarted by Mr. Halifax in their attempt to investigate his company and determine why the sudden shutdown of power. However, they are given special permission from Mr. Proteus, Security Council Director, to enter the plant. Once inside they are trapped in a deadly Radiation Chamber.
 
-#165 "THE PLOT IN THE ATOMIC PLANT" February 20, 1954
+# 165 "THE PLOT IN THE ATOMIC PLANT" February 20, 1954
 
 Buzz Corry and Cadet Happy's investigation of the power plant's shortage revels that the shortage threatens the entire solar system with total destruction. More attempts are made upon their lives. Buzz and Happy, who know Mr. Proteus only as the Director of the United Planets Fissionable Materials Commission, are unaware that it is he in his chameleon-like disguises of Mr. Halifax and Ben, the watchman, who is plotting against them and trying to corner the market on the supply of atomic power units.
 
 Proteus is played by Marvin Miller.
 
-#166 "THE BLAZING SUN OF MERCURY" February 27, 1954
+# 166 "THE BLAZING SUN OF MERCURY" February 27, 1954
 
 Commander Corry learns that Mr. Proteus is the man who is trying to gain sole control of the atomic energy of the United Planets. COrry is lured along with Cadet Happy and Major Robertson to Mercury, where they almost perish from the intense heat. Proteus blasts off in his ship for Terra making certain that the three Space Patrollers and the real Halifax, Matsoong and Justin will die from the heat. But Proteus underestimates Buzz and is in for a startling surprise.
 
-#167 "THE BIG PROTEUS SHINGLE" March 6, 1954
+# 167 "THE BIG PROTEUS SHINGLE" March 6, 1954
 
 As the Director of the Security Council, the ruthless Mr. Proteus has authorized the purchase of six thousand power units for the blackmarket price of six billion credits. The transaction will be in cash and will be paid to Mr. Halifax. Mr. Proteus, disguised as Halifax, accepts the money and travels to Venus. When he arrives on Venus he attempts to pose as Mr. Matsoong and swindle the United Planets out of four million more credits. The Space Patrol crew catch him in the act, but Proteus deals the Space Patrollers an unexpected blow.
 
@@ -677,11 +677,11 @@ As the Director of the Security Council, the ruthless Mr. Proteus has authorized
 
 Buzz, Happy and Robbie have trapped Mr. Proteus on Venus where he has fled with the six billion United Planet credits. Believing that they have at last stopped him in his unscrupulous plan, they momentarily are caught off guard when Mr. Proteus effects another of his clever disguises and once again escapes.
 
-#169 "MR. PROTEUS AND POISON GAS" March 20, 1954
+# 169 "MR. PROTEUS AND POISON GAS" March 20, 1954
 
 Commander Buzz Corry and Cadet Happy recover the six billion credits from Mr. Proteus, but the unscrupulous villain once again eludes them. Through a diabolical ruse, Mr. Proteus lures Buzz and Happy into his space ship and nearly succeeds in ending their lives with poison gas. Although Buzz and Happy turn the tables on their adversary, the cunning Mr. Proteus manages to escape once more.
 
-#170 "THE REVENGE OF MR. PROTEUS" March 27, 1954
+# 170 "THE REVENGE OF MR. PROTEUS" March 27, 1954
 
 Mr. Proteus almost succeeds in his attempt to do away with Buzz and Happy once and for all in revenge for being foiled in his attempt to swindle the United Planets out of six billion credits. Buzz and Happy outwit Proteus in a last minute bit of strategy, but he once again escapes the clutches of the Space Patrol.
 
@@ -695,107 +695,107 @@ Prince Baccarratti appears again with a double vengeance to plague Commander Buz
 
 Bela Kovacs plays a duel role as Prince Baccarratti, and an equally unscrupulous criminal, Zarra.
 
-#173 "MAROONED IN THE PAST" April 17, 1954
+# 173 "MAROONED IN THE PAST" April 17, 1954
 
 Commander Buzz Corry and Cadet Happy are marooned in Hollywood, California in the 20th Century. In a desperate effort to capture Zarra, Prince Baccarratti's twin brother and true heir to the throne of Venus, Buzz and Happy travel to 20th century Earth. Zarra's guardian, Groata, has hidden the twin for the past 30 years in the past where the Space Patrollers must search for him. Marooned temporarily on Earth by Zarra and Groata's "Z" Ray Guns, Buzz and Happy manage to escape with the help of a rocket test pilot. They head for Terra in an attempt to head-off the two diabolical criminals.
 
-#174 "EVIL SPIRITS OF GREAT THUNDERBIRD" April 24, 1954
+# 174 "EVIL SPIRITS OF GREAT THUNDERBIRD" April 24, 1954
 
 Buzz and Happy narrowly escape being marooned in the 20th Century and race back to their own time in an attempt to overtake Groata and Zarra. When they return to the 30th century they learn that Zarra, with the help of Groata, has already begun a devastating attack upon the United Planets. Zarra is trying to re- establish himself on the throne of Venus and Corry is trying to prevent any further disaster. Once again Space Patrol is lured back into the past among a tribe of Indians, who almost burn them at the stake as evil spirits.
 
-#175 "THE FALL OF THE KINGDOM OF ZARRA" April 30, 1954
+# 175 "THE FALL OF THE KINGDOM OF ZARRA" April 30, 1954
 
 Zarra kidnaps Prince Baccarratti, Happy and Major Robertson and attempts to set himself up as Ruler of Venus. Commander Corry learns that Zarra has used the "Z" Ray on Happy and Robbie and is holding them prisoner in the roles of two of his "loyal subjects". Corry takes a daring and death defying gamble to save their lives. The result is the fall of the Kingdom of Zarra.
 
-#176 "THE PRISONERS OF THE GIANT COMET" May 7, 1954
+# 176 "THE PRISONERS OF THE GIANT COMET" May 7, 1954
 
 A giant comet, a million miles in diameter, with a tail millions of miles long, enters into our solar system from outer space and threatens everything in its path with total destruction. Carol, flying a ship en route to Terra, is caught directly in the path of the onrushing comet. Desperately trying to escape, she is caught in its tail and faces certain death. Buzz, Happy and Robbie blast-off in the Terra Five in an attempt to rescue her but the gravitational pull of the comet also imprisons them.
 
-#177 "THE DEMON PLANET" May 14, 1954
+# 177 "THE DEMON PLANET" May 14, 1954
 
 Escaping from the magnetic pull of The Giant Comet, the Terra Five drifts toward the surface of a mysterious unknown planet. In the most terrifying experience of their lives, the Space Patrol crew find themselves trapped on a planet composed of live rocks and furry-mouths of grass which devour anything that gets in their way. Almost eaten alive, the Intrepid crew manages to escape, only to be lost in galactic space.
 
-Space Patrol on the Radio#178 "LOST IN GALACTIC SPACE" May 21, 1954
+Space Patrol on the Radio# 178 "LOST IN GALACTIC SPACE" May 21, 1954
 
 The entire crew of the Terra Five are lost in galactic space after narrowly escaping death on The Demon Planet. With the air purifier damaged beyond repair, their oxygen is going fast and the entire ship damaged beyond repair, the frantic crew fights desperately to find their way back to the United Planets.
 
-#179 "THE HIDDEN TREASURE OF MARS" May 28, 1954
+# 179 "THE HIDDEN TREASURE OF MARS" May 28, 1954
 
 Buzz and Happy blast-off for Mars to join the famous archeologist Dr. Lambert. The Doctor has just discovered the underground city of the ancient Carnacans who disappeared from the planet a thousand years ago. The Commander and his Cadet find a clue to the hidden treasure and encounter the Wrath of the ancient worshipers. The worshipers are a tribe of men who wear totem heads and throw their enemy's into an ancient Carnacan torture chamber.
 
 Dr. Lambert: I. Stanford Jolley. Carnacan: Nestor Paiva. This is the initial episode that introduced the Totem Mask premium offer.
 
-#180 "THE MARTIAN TOTEM HEAD" June 4, 1954
+# 180 "THE MARTIAN TOTEM HEAD" June 4, 1954
 
 Commander Corry and Cadet Happy, in their efforts to rescue Dr. Lambert, find themselves trapped once again by the ruthless men posing as the real Carnacans. Buzz and Happy find the hiding place of the real Carnacan treasure in the Martian Totem Heads.
 
-#181 "TRAPPED IN A PYRAMIDS " June 11, 1954
+# 181 "TRAPPED IN A PYRAMIDS " June 11, 1954
 
 Buzz and Happy are trapped with the bogus Carnacans in a pyramid after escaping the disintegration of the ancient underground Carnacan city on Mars. Fighting for their lives against insurmountable odds, Commander Corry and Cadet Happy effect a last minute escape from the pyramid, capture their adversaries and rescue their friend, Dr. Lambert.
 
-#182 "THE UNDERWATER SPACE SHIP GRAVEYARD" June 18, 1954
+# 182 "THE UNDERWATER SPACE SHIP GRAVEYARD" June 18, 1954
 
 A pleasant vacation for Buzz, Happy, Carol and Robbie ends as a nightmare on the depths of the ocean floor as the quartet is trapped in an underwater space- ship graveyard. The diabolic Agent X, whom Space Patrol believed dead for four years, suddenly reappears and cleverly maneuvers the unsuspecting Space Patrol crew to his underwater hideaway, where they face almost certain death.
 
-#183 "THE GIANT MARINE CLAM" June 25, 1954
+# 183 "THE GIANT MARINE CLAM" June 25, 1954
 
 In the Western Hemisphere of the planet Venus lies the huge Caloric Ocean. Commander Buzz Corry, Major Robertson, Cadet Happy and Carol Carlisle have been drawn to the bottom of this ocean by a force field controlled by Agent X. Aided by a mechanical robot named Junior, Agent X, a former agent of an interplanetary crime syndicate, has become an undersea space pirate.
 
-#184 "MAROONED ON THE OCEAN FLOOR" July 2, 1954
+# 184 "MAROONED ON THE OCEAN FLOOR" July 2, 1954
 
 Agent X, mysterious denizen of the ocean floor of Venus, finds himself a prisoner of Commander Buzz Corry and his pals, but manages to turn the tables on them. After recovering his gun from Commander Corry, Agent X and his robot aide, Junior, prepares to drown Happy and Carol. He promises to save them only if Buzz and Robbie will help him in his scheme to lure space ships to destruction beneath the ocean depths.
 
-#185 "MYSTERY OF THE DISAPPEARING SPACE PATROLMEN"
+# 185 "MYSTERY OF THE DISAPPEARING SPACE PATROLMEN"
 
 September 4, 1954
 
 The baffling disappearance of Major Robertson and a pair of young Space Patrol Cadets named Clay and Victor sends Commander Buzz Corry and Cadet Happy on one of their strangest adventures. Buzz succeeds in learning that they have been abducted to the planet Manza by an unknown force controlled by an invisible creature who bears the same name as his remote lair.
 
-#186 "THE SPACE PATROL PERISCOPE" September 11, 1954
+# 186 "THE SPACE PATROL PERISCOPE" September 11, 1954
 
 The invisible creature Manza intends to use his Space Patrol captives as gunners in a war against his enemies, the Icarians. The Manza long ago drove the Icarians from the planet on which his stronghold is located and is now the sole master. Buzz and Happy arrive on the planet and are captured by their invisible foe. The Space Patrolmen become even more horrified when the Icarian battle fleet of flying saucers appear overhead and give Manza a surrender-or-else ultimatum.
 
-#187 "THE SPACE WAR" September 18, 1954
+# 187 "THE SPACE WAR" September 18, 1954
 
 Commander Corry and Cadet Happy are helpless as the Space Battle begins with the Icarian fleet of saucer ships. The Icarian's start to melt the stronghold of Manza to the ground with their heat rays. Making a desperate escape from Manza, Buzz succeeds in reaching the Icarian General, Nardo, and briefing him on the perilous situation of Happy and the other imprisoned Space Patrolmen. Then as Buzz and Nardo plot Manza's downfall, their ruthless foe suddenly tosses a lovely blonde monkey-wrench into the fray.
 
-#188 "THE DEFEAT OF MANZA" September 25, 1954
+# 188 "THE DEFEAT OF MANZA" September 25, 1954
 
 While plotting with Nardo the downfall of the evil being known as Manza, Commander Buzz Corry is abruptly forced to surrender his freedom and return himself into the clutches of Manza. Corry takes the drastic step when he learns that Manza has captured Carol Carlisle and is holding her as a hostage for his return. But Buzz manages to save the day when Manza accidentally imprisons himself. When Buzz and Happy plunge to the very heart of Manza's stronghold they find themselves in a final duel to the death with the invisible creature.
 
-#189 "THE GIANTS OF PLUTO III" October 2, 1954
+# 189 "THE GIANTS OF PLUTO III" October 2, 1954
 
 Suspicious happenings on the third satelIite of the planet Pluto come under the scrutiny of Buzz Corry. Buzz and Happy soon meet with trouble at the hands of Dr. Frederic Kurt, undersize operator of a sanitarium for rundown citizens of the universe and his pack of oversize puppets. In fact, Buzz and Happy are startled to find that their fellow officer, Major Robbie Robertson is also under the doctor's influence.
 
-#190 "THE FIERY PIT OF PLUTO III" October 9, 1954
+# 190 "THE FIERY PIT OF PLUTO III" October 9, 1954
 
 Determined to bring the evil Doctor Frederic Kurt to justice because of his practice of converting his patients into giant, robot-like slaves, Buzz and Happy are hampered by the very zombie like creatures they are trying to save. The two Space Patrollers attempt to overcome the zombies without harming them, only to wind up as candidates for a bath in a pool of molten rock.
 
-#191 "MANHUNT ON PLUTO III" October 16, 1954
+# 191 "MANHUNT ON PLUTO III" October 16, 1954
 
 Having reconverted all but one of Doctor Kurt's zombies into the normal humans that they were originally, Commander Buzz Corry and Cadet Happy turn their attentions to the task of corralling the evil scientist. But thanks to his one remaining giant slave, Dr. Kurt is able to escape from Buzz and Happy. The two Space Patrolmen become the hunted, rather than the hunters. Their plight appears hopeless when Kurt and his stooge, Atlas, trap them in a deep canyon that offers no means of escape.
 
-#192 "MYSTERY OF THE STOLEN ROCKET SHIP" October 23, 1954
+# 192 "MYSTERY OF THE STOLEN ROCKET SHIP" October 23, 1954
 
 The top-secret Terra 5, experimental model for a fleet of sensational new space ships ticketed for Space Patrol service, falls into the hands of interplanetary gangsters. Using Carol as a hostage, ruthless Gart Stanger forces Cadet Happy to take him aboard the Terra 5 and pilot him back through space and time to the planet Earth in the year 1954. At his destination Stanger intends to construct duplicates of the Terra 5 with which he will equip his henchmen when he returns to the 30th Century. Unfortunately for both he and Happy, the pair arrive on Earth to find themselves imminent targets for an atomic bomb test.
 
-#193 "THE ATOM BOMB" October 30, 1954
+# 193 "THE ATOM BOMB" October 30, 1954
 
 Stanger and Gregory masquerade as military policemen in order to steal a powerful new space cruiser, the S-RC. But their plans run awry when they are exposed to deadly radiation from an Atom Bomb test on 20th Century Earth.
 
-#194 "DANGER: RADIATION" November 6, 1954
+# 194 "DANGER: RADIATION" November 6, 1954
 
 Contaminated with a lethal dose of radioactivity from an atomic bomb, Stanger and Gregory seek aid from a small-town doctor on 20th Century Earth. Commander Buzz Corry and Cadet Happy trace the villains but they are captured and face death along with the doctor. Stanger and his henchman have received their lifesaving injections of anti-radioactivity serum but leave the Space Patrollers to die.
 
-#195 "THE EXPLODING STARS" November 13, 1954
+# 195 "THE EXPLODING STARS" November 13, 1954
 
 Commander Corry and Cadet Happy are summoned by a new type of observatory stationed in outer space to halt the imminent explosions of a series of stars near our solar system. All indicators point to an organized pattern of destruction to the stars within our galaxy. The pattern further indicates that Sol, the sun in our solar system may be the next to go
 
-#196 "THE DWELLERS OF THE PRIME GALAXY" November 20, 1954
+# 196 "THE DWELLERS OF THE PRIME GALAXY" November 20, 1954
 
 Buzz and Happy venture into deep space to learn what might be causing the explosions of suns near our Solar System. They discover that fantastic beings are to blame for the exploding holocausts of neighboring suns, but see little hope of defeating them. The Space Patrollers soon come to grips with Ahyo, an alien who handles his foes by shooting them to the ceiling with a gravity-inverter and then knocking them cold by dropping them to the floor.
 
-#197 "TERRA, THE DOOMED PLANET" November 27, 1954
+# 197 "TERRA, THE DOOMED PLANET" November 27, 1954
 
 Ahyo, the super-intelligent alien whose mission is to destroy our entire galaxy, falls victim to an old-fashioned belt on the button administered by Commander Corry. Ahyo's advanced weapons prove worthless against the fury of Corry's fists when Ahyo attempts his annihilation of the Solar System by sending the planet Terra to collide with the sun.
 
