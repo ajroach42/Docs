@@ -1,8 +1,16 @@
 # Space Patrol Episode List 
 
+Space Patrol was a live daily soap opera set in space (that is, a Space Opera) that started airing in 1950, and aired daily for several years, and weekly for several more. At it's peak, there were 6 TV episodes and 2 radio episodes broadcast each week, all done live and usually done with scripts that were handed in less than 8 hours before the broadcast (all written, at the worst of times, by one man!)
+
+In spite of all that, the show is a technical marvel. It pioneered many techniques that are today taken for granted, and forever shaped the face of television. There has been nothing like it since, and nearly every piece of science fiction that followed owes a debt to Space Patrol. 
+
+Sadly, as a product of the early days of Television (1950!!!), the available information on the show is... sparse and inconsistent. This is an attempt to clear some of that up, while citing sources and correlating with available downloads. 
+
 ## Half Hour (weekly) TV Episodes 
 
-The half hour weekly episodes were broadcast on ABC and syndicated nationally. They were, at times, simulcast on the east and west coast, broadcast live on the east coast and Kinescopes for the west coast, or seen as Kinescopes in both markets. In every case, they were done live, in one take, in one of the largest sound stages to have ever been constructed. 
+The half hour weekly episodes were broadcast on ABC and syndicated nationally from Hollywood, CA. They were, at times, live on the west coast and kinescoped for the east coast, simulcast on the east and west coast, broadcast live on the east coast (from the west coast, using a complex network of cables and microwaves) and kinescoped for the west coast, or seen as Kinescopes in both markets. 
+
+In every case, they were done live, in one take, in one of the largest sound stages to have ever been constructed. (The same sound stage as was used for The Phantom of the Opera.)  
 
 Not all of the broadcast episodes survived, and of the ones that did survive, not all are currently in circulation. A later version of this document will attempt to correlate this list with the available DVDs and digital sources, and highlighting which episodes are currently lost. 
 
