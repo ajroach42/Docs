@@ -1,6 +1,6 @@
 
 
-# 1 "TREACHERY OF MARS "December 30, 1950
+# 1 "TREACHERY OF MARS" December 30, 1950
 Buzz Corry, Commander in Chief of the Space Patrol, is returning to Terra from Earth, accompanied by his new Cadet, Happy, winner of the Corry Scholarship, when he spots what he believes to be a derelict guided missile floating in space. As the Space Patrol battle cruiser closes in to destroy it, the missile heads for it, narrowly missing, then turns and strikes again. The missile is in reality a cosmic bomb controlled by Major Gorla from his fortress on Kars. The Major, with the help of Marta, an assistant to the Secretary General on Terra, plots to conquer the United Planets beginning with the murder of Commander Corry.
 
 # 2 "THE LETHAL LADY" January 6, 1951
