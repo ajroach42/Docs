@@ -854,4 +854,18 @@ Survivors: Bert Holland and Charles Horvaht.
 The mysterious disappearance of Happy and Carol halts the Space Patrollers from blasting off from the desolated planet Procyon IV. When Commander Buzz Corry and Major Robertson go in search of their missing comrades, they find them in the hands of Manzo and Rayzo, survivors of the atomic devastation.
 
 
+## Radio Episodes 
 
+## 15 minute (daily) TV Episodes 
+
+# Tom Corbett Space Cadet Episode List 
+
+## 30 minute (Weekly) TV episodes 
+
+## 15 minute (Daily) TV episodes
+
+## Radio 
+
+# Rocky Jones Space Ranger Episode List 
+
+## TV Episodes 
