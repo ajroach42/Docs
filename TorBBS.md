@@ -65,9 +65,13 @@ This tutorial will cover basic installation and setup, up to the point that othe
 In a future post, we’ll cover advanced Synchronet configuration, file sharing, games, and federation. These are easy too, but not anything I’m ready to cover today. 
 
 ### Instructions: 
- *Install your Operating System.*  If you’re using Raspbian for Raspberry Pi [follow the basic instructions for installation on the raspberry pi site.](https://www.raspberrypi.org/documentation/installation/installing-images/) The short version: download an image on a computer,  write the image to the SD card using the appropriate tool for your OS of choice
- *Enable Wifi and SSH*
-before booting the pi 0, open the Boot partition on the SD card and do the following:
+
+**Install your Operating System.**
+If you’re using Raspbian for Raspberry Pi [follow the basic instructions for installation on the raspberry pi site.](https://www.raspberrypi.org/documentation/installation/installing-images/) The short version: download an image on a computer,  write the image to the SD card using the appropriate tool for your OS of choice
+
+**Enable Wifi and SSH**
+
+Before booting the pi 0, open the Boot partition on the SD card and do the following:
 
 - Enable SSH: Make a file in the boot partition called ssh. It should be empty and have no file extension. On Mac and Linux you can do this by navigating there in a terminal and typing `touch ssh` on windows, you’ll have to make it an empty text file, and then remove the .txt extension 
 - Enable wifi: make a text file called wpa_supplicant.conf on the SD card. Fill it with the following:   ```network={
@@ -76,9 +80,10 @@ before booting the pi 0, open the Boot partition on the SD card and do the follo
     key_mgmt=WPA-PSK
 }```
 
+The boot partition will be the only visible part of the drive on Windows and Mac. On linux, there will be two partitions. You want the smaller FAT partition, not the larger EXT partition. 
 
 
-*Connect to the machine* 
+**Connect to the machine** 
 
 Connect to the machine over SSH. 
 
@@ -86,16 +91,18 @@ Use the username and address pi@raspberrypi and the password raspberry.
 
 On linux or Mac, from a terminal just type `ssh pi@raspberrypi`. On windows, you’ll want to download and install Putty, and use that to make the SSH connection.  
 
-*Change your password* 
+**Change your password** 
+
 Seriously, change the password as soon as you turn on the machine. Do not leave the machine powered on with wifi and SSH enabled without changing the password. 
 
 You change the password by typing `passwd pi` and then following the prompts. 
 
 
-*Install Tor*
+**Install Tor**
+
 This part is super easy, just: `sudo apt install tor` and then enter your password. Sudo means Super User Do, and it’s a way of telling the computer that you *Really* want to do something, and that you have permission to do it. 
 
-*configure Tor* 
+**configure Tor**
 Type `sudo nano /etc/tor/torrc` and then find the section of that file that mentions hidden or onion services. 
 
 In that section, add something like this: 
@@ -109,7 +116,7 @@ Save the file (press Ctrl+X, then follow the prompts.) and then restart tor so t
 
 `sudo systemctl restart tor` 
 
-*Find your tor address* 
+**Find your tor address** 
 
 Navigate to /var/lib/tor/sbbs and read the file. If you don’t know how to do that, the following command will work:   ` cat /var/lib/tor/sbbs/hostname `
 
@@ -117,12 +124,12 @@ That should give you a string of gibberish that ends in `.onion`. Copy that some
 
 If you don’t see that, you’ve done something wrong. That’s okay! Just retrace your steps. If you can’t figure out what you’ve done wrong, you can always reach out to me! I’ll be glad to help troubleshoot as I am able. 
 
-*enable Tor*
+**enable Tor**
 
 Once you have your onion address, we’ll want to enable tor so that it’s available each time the computer restarts. For that, type 
 `sudo systemctl enable tor`. 
 
-*Install your BBS* 
+**Install your BBS** 
 If you’re going to use synchronet, follow the [synchronet installation instructions for Raspberry Pi](http://wiki.synchro.net/howto:raspbian_install). (Don’t worry, they’re easy.) 
 
 The first thing it wants you to do is add a user, so 
