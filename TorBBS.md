@@ -1,4 +1,4 @@
-A Modern BBS
+# A Modern BBS
 
 Supposed for a moment that you want a place in Cybrespace where you and your friends and maybe even some strangers can post updates about your lives, chat with one another, share images and articles and news, and even play games together. Today, you might reach for Facebook, right? But lets suppose again that the year is 1985. Then what do you do? 
 
