@@ -151,7 +151,7 @@ Now you’ll need to reboot the pi, and then log in as the sbbs user.
 
 You’ll be disconnected. Wait a few minutes and then reconnect `ssh sbbs@raspberrypi`   From there, just follow the instructions. The “make install” step is going to take a few hours. On my 0w, at least two hours. That’s okay. Just walk away from it and let it run. 
 
-*Configure your BBS* 
+**Configure your BBS**
 
 First we need to tell SBBS where it’s config data is. We do that by running: 
 `export SBBSCTRL=~/sbbs/ctrl`
@@ -168,9 +168,13 @@ Then open your sbbs.ini file. It is in ~/sbbs/ctrl. Edit it by typing ``` nano ~
 
 Find the section that mentions the telnet port to listen on, and change it from 23 to 2333 (or whatever you configured in your torrc file.)
 
-When you’re done, save and exit that program and start the BBS. 
+When you’re done, save and exit. Before we start the BBS, we need to make sure that the sbbs user no longer has sudo access (as the user doesn't need it anymore, and leaving it is a security risk.) 
 
-*start the BBS* 
+`sudo deluser sbbs sudo`
+
+This will not delete the user, but will remove the user from the sudo users group. If you need sudo access, use the user pi, or create another user following the previous instructions.
+
+**start the BBS**
 
 The first time we start it, we’re going to start it by hand. Later we’ll automate this. 
 
@@ -180,7 +184,7 @@ To start the BBS, run the following command:
 
 For now, you’ll need to run the above export and execute commands each time the machine reboots. In our next article, we’ll talk about some options for doing this automatically. 
 
-*That was a lot!*
+**That was a lot!**
 
 Well yeah, it was. There’s more though, but that gets the hard part out of the way. At this point, all thats left are the fun bits! Well, the fun bits and teaching people how to connect, but that’s okay. It’s easy too. 
 
@@ -194,7 +198,8 @@ You need:
 - Torsocks (for Mac, linux), Tor browser and putty (for windows) or orbot and termux (for Android) 
 - Uhh, I guess that’s it. This is really easy to do. 
 
-*Windows instructions* 
+**Windows instructions** 
+
 Establishing your first connection from Windows is a little more complicated than Mac or Linux, but it’s still something you can manage without a ton of previous experience. 
 
 - First, download and install the Tor Browser Bundle. 
@@ -206,7 +211,8 @@ Establishing your first connection from Windows is a little more complicated tha
 This will open a Telnet connection to the BBS over Tor. 
 
 
-*Mac instructions* 
+**Mac instructions** 
+
 Install torsocks. I use brew. If you don’t have brew, also install brew. ‘brew install torsocks` 
  
 Start a terminal with torsocks enabled `. torsocks on`
@@ -214,7 +220,8 @@ Start a terminal with torsocks enabled `. torsocks on`
 Telnet to your onion address from above. `telnet [yourgibberish].onion`
 
 
-*linux instructions* 
+**linux instructions** 
+
 Install torsocks. Open a terminal and then `sudo apt install torsocks` on debian or ubuntu. On other platforms, this will be different. 
 
 Start a terminal with torsocks enabled `. torsocks on`
@@ -222,7 +229,8 @@ Start a terminal with torsocks enabled `. torsocks on`
 Telnet to your onion address from above. `telnet [yourgibberish].onion`
 
 
-*android instructions* 
+**android instructions**
+
 Install orbot and termux 
 Open the orbot settings and tell orbot to proxy connections for termux
 Launch termux and then `telnet [yourgibberish].onion 
