@@ -112,7 +112,7 @@ In that section, add something like this:
 
 ```
 HiddenServiceDir  /var/lib/tor/sbbs/
-HiddenServicePort 23 127.0.0.1:23
+HiddenServicePort 23 127.0.0.1:2333
 ```
 
 Save the file (press Ctrl+X, then follow the prompts.) and then restart tor so that it picks up those configuration changes 
@@ -153,7 +153,8 @@ You’ll be disconnected. Wait a few minutes and then reconnect `ssh sbbs@raspbe
 
 *Configure your BBS* 
 
-First we need to tell SBBS where it’s config data is. We do that by running:   `export SBBSCTRL=~/sbbs/ctrl`
+First we need to tell SBBS where it’s config data is. We do that by running: 
+`export SBBSCTRL=~/sbbs/ctrl`
 
 Make note of this command, you’ll probably end up running it a couple of times by hand, before we set it up to happen automatically. 
 
@@ -163,7 +164,11 @@ Then we can launch the interactive config program
 
 There’s a lot to configure here, feel free to poke around the menus. We’ll revisit this program in the future, but for now just make sure it starts, set your name and any other config settings you know you want to change. 
 
-When you’re done, exit that program and start the BBS. 
+Then open your sbbs.ini file. It is in ~/sbbs/ctrl. Edit it by typing ``` nano ~/sbbs/ctrl/sbbs.ini ```
+
+Find the section that mentions the telnet port to listen on, and change it fr 23 to 2333 (or whatever you configured in your torrc file.)
+
+When you’re done, save and exit that program and start the BBS. 
 
 *start the BBS* 
 
@@ -171,7 +176,7 @@ The first time we start it, we’re going to start it by hand. Later we’ll aut
 
 To start the BBS, run the following command: 
 
-`sudo -E ~/sbbs/exec/sbbs`
+`~/sbbs/exec/sbbs`
 
 For now, you’ll need to run the above export and execute commands each time the machine reboots. In our next article, we’ll talk about some options for doing this automatically. 
 
