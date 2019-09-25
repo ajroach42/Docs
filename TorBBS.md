@@ -93,12 +93,13 @@ Use the username and address pi@raspberrypi and the password raspberry.
 
 On linux or Mac, from a terminal just type `ssh pi@raspberrypi`. On windows, you’ll want to download and install Putty, and use that to make the SSH connection.  
 
-**Change your password** 
+**Change your password and update your software** 
 
 Seriously, change the password as soon as you turn on the machine. Do not leave the machine powered on with wifi and SSH enabled without changing the password. 
 
 You change the password by typing `passwd pi` and then following the prompts. 
 
+Then `sudo apt update` followed by `sudo apt upgrade`
 
 **Install Tor**
 
