@@ -166,7 +166,7 @@ There’s a lot to configure here, feel free to poke around the menus. We’ll r
 
 Then open your sbbs.ini file. It is in ~/sbbs/ctrl. Edit it by typing ``` nano ~/sbbs/ctrl/sbbs.ini ```
 
-Find the section that mentions the telnet port to listen on, and change it fr 23 to 2333 (or whatever you configured in your torrc file.)
+Find the section that mentions the telnet port to listen on, and change it from 23 to 2333 (or whatever you configured in your torrc file.)
 
 When you’re done, save and exit that program and start the BBS. 
 
