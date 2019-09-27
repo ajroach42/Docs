@@ -1,8 +1,8 @@
 # A Modern BBS
 
-```this is incomplete, it is a rough draft. PRs are welcome. As are suggestions for areas to improve. When I'm happy with this it'll become a blog post.```
+```This is incomplete, it is a rough draft, it may be missing steps or otherwise not work. PRs are welcome. As are suggestions for areas to improve. When I'm happy with this it'll become a blog post.```
 
-Supposed for a moment that you want a place in Cybrespace where you and your friends and maybe even some strangers can post updates about your lives, chat with one another, share images and articles and news, and even play games together. Today, you might reach for Facebook, right? But lets suppose again that the year is 1985. Then what do you do? 
+Suppose for a moment that you want a place in Cybrespace where you and your friends and maybe even some strangers can post updates about your lives, chat with one another, share images and articles and news, and even play games together. Today, you might reach for Facebook, right? But lets suppose again that the year is 1985. Then what do you do? 
 
 You reach for a BBS, a Computerized Bulletin Board System. Either you find one running in your area code, plug in your modem and dial in, or you drop a few bills at the local computer store on some BBS software and you host it yourself. Attach a sufficiently sized disk, set up extra phone lines and hook in additional modems, offer cross country email and real time multiplayer games! Do all of this on what today would be considered a dinosaur, unfit for any purpose. 
 
